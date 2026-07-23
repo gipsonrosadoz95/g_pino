@@ -91789,6 +91789,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 93716,BCE-011,PM,2026-07-20,SONICO,0,0.00,1.0,3.0,1.0,false,true,false,"","BIO2,CP6,BCE-011,01",12,false,false
 93717,BCE-010,PM,2026-07-20,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-010,01",12,false,false
 94035,BCE-101,AM,2026-07-22,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-101,06",12,false,false
+94171,PL1-054,AM,2026-07-23,TIMER,1,0.00,3.0,0.0,0.0,false,true,false,"En general poco alimento fresco,  full actividad","BIO3,CP2,PL1-054,03",9,false,false
 91853,BCE-013,AM,2026-07-12,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-013,02",12,false,false
 91854,BCE-014,AM,2026-07-12,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
 91857,BCE-015,AM,2026-07-12,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
