@@ -1,0 +1,13 @@
+id,id_organizacion,id_empresa,codigo_sector,descripcion,estado
+5,1,2,CP3,BS Biosuper,Activo
+7,1,2,CP5,BS Pozas,Activo
+8,1,3,CP1,PG Josefina,Activo
+9,1,3,CP2,PG Lomas 1,Activo
+10,1,3,CP3,PG Lomas 2,Activo
+1,1,1,CP1,BG Biogale 1,Activo
+3,1,2,CP1,BS Biofina,Activo
+4,1,2,CP2,BA Bioayalan,Activo
+2,1,1,CP2,BG Biogale 2,Activo
+12,1,2,CP6,BS LOS CERROS,Activo
+11,1,3,CP4,PG Lomas 3,Inactivo
+6,1,2,CP4,BA Bioayalan 2,Inactivo
