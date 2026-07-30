@@ -79868,6 +79868,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95929,BSS-013,PM,2026-07-27,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,CAFES,"BIO2,CP3,BSS-013,22",5,true,false
 95930,BSS-012,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-012,21",5,false,false
 95931,BSS-011,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,HECES CAFES,"BIO2,CP3,BSS-011,21",5,true,false
+96401,PL1-028,AM,2026-07-29,VOLEO,0,0.00,4.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-028,22",9,false,false
+96595,PL1-027,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-027,22",9,false,false
+96596,PL1-028,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-028,22",9,false,false
 80750,BSS-009,AM,2026-05-25,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-009,21",5,false,false
 80753,BSS-001,AM,2026-05-25,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-001,21",5,false,false
 93273,PL1-054,PM,2026-07-18,VOLEO,0,0.00,0.0,1.0,1.0,false,false,false,"","BIO3,CP2,PL1-054,03",9,false,false
@@ -79875,6 +79878,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 93275,PL1-009,PM,2026-07-18,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,bastante heces amarillas.. pocas pepas de balanceado en el suelo ,"BIO3,CP2,PL1-009,22",9,true,false
 93276,PL1-053,PM,2026-07-18,VOLEO,0,0.00,0.0,0.0,1.0,false,true,false,"","BIO3,CP2,PL1-053,03",9,false,false
 93277,PL1-023,PM,2026-07-18,VOLEO,1,0.00,0.0,0.0,0.0,false,false,false,heces amarillas y negras.. pocas pepas de balanceado en el suelo ,"BIO3,CP2,PL1-023,28",9,true,false
+96614,BSF-017,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-017,21",3,false,false
 93868,BA1-001,AM,2026-07-22,SONICO,0,150.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP2,BA1-001,22",4,true,false
 93865,BA1-026,AM,2026-07-22,TIMER,0,150.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-026,22",4,true,false
 93864,BA1-030,AM,2026-07-22,TIMER,0,225.00,0.0,0.0,0.0,true,false,false,"","BIO2,CP2,BA1-030,22",4,false,false
@@ -79904,6 +79908,19 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95936,BSS-003,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,CAFES,"BIO2,CP3,BSS-003,21",5,true,false
 95937,BSS-002,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,CAFES Y GRISES,"BIO2,CP3,BSS-002,21",5,true,false
 95938,BSS-001,PM,2026-07-27,TIMER,0,0.00,0.0,0.0,2.0,false,true,false,CAFES,"BIO2,CP3,BSS-001,22",5,true,false
+96402,PL1-050,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,camaron en muda ,"BIO3,CP2,PL1-050,03",9,false,false
+96597,BSF-019,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP1,BSF-019,21",3,false,false
+96598,BSF-021,AM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-021,21",3,false,false
+96599,BSF-001,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-001,21",3,false,false
+96601,BSF-025,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP1,BSF-025,22",3,false,false
+96602,BSF-024,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO2,CP1,BSF-024,21",3,false,false
+96604,BSF-002,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-002,23",3,false,false
+96605,BSF-003,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-003,22",3,false,false
+96606,BSF-029,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-029,21",3,false,false
+96610,BSF-033,AM,2026-07-29,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO2,CP1,BSF-033,21",3,false,false
+96612,BSF-032,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-032,21",3,false,false
+96617,BSF-013,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-013,22",3,false,false
+96619,BSF-018,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-018,21",3,false,false
 80751,BSS-008,AM,2026-05-25,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-008,21",5,false,false
 80754,PL1-014,PM,2026-05-25,SONICO,0,0.00,3.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-014,21",9,false,false
 80755,PL1-015,PM,2026-05-25,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-015,19",9,false,false
@@ -80023,6 +80040,11 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95720,BCE-014,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-014,02",12,true,false
 95721,BCE-013,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
 95939,BA1-009,AM,2026-07-28,SONICO,0,175.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-009,21",4,true,false
+96403,PL1-027,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-027,22",9,false,false
+96406,PL1-102,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-102,61",9,false,false
+96410,BCE-010,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+96412,BCE-011,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-011,01",12,false,false
+96416,PL1-010,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-010,22",9,false,false
 93281,PL1-005,PM,2026-07-18,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,ful sobrante de balanceado en el suelo se procede apagar equipos. heces amarillas y cafes ,"BIO3,CP2,PL1-005,22",9,true,false
 80813,BA1-026,AM,2026-05-26,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-026,21",4,false,false
 80816,BA1-030,AM,2026-05-26,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-030,21",4,false,false
@@ -80035,6 +80057,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 80832,BA1-038,PM,2026-05-26,SONICO,0,0.00,1.0,1.0,2.0,false,false,false,"","BIO2,CP2,BA1-038,21",4,false,false
 93282,PL1-050,PM,2026-07-18,TIMER,3,0.00,4.0,3.0,1.0,false,true,false,ful sobrante de balanceado en el suelo se procede apagar equipos ,"BIO3,CP2,PL1-050,03",9,false,false
 93283,PL1-040,PM,2026-07-18,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"pepas frescas de balanceado, heces amarillas y cafes ","BIO3,CP2,PL1-040,11",9,true,false
+96411,PL1-005,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-005,22",9,false,false
 93889,BA1-032,AM,2026-07-22,SONICO,0,375.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP2,BA1-032,21",4,true,false
 93894,BA1-034,AM,2026-07-22,TIMER,0,250.00,0.0,0.0,0.0,true,false,false,"","BIO2,CP2,BA1-034,22",4,true,false
 93892,BA1-036,AM,2026-07-22,SONICO,0,25.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-036,22",4,true,false
@@ -80059,11 +80082,28 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95097,BCE-005,PM,2026-07-25,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-005,03",12,false,false
 95098,BCE-002,PM,2026-07-25,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,heces cafes,"BIO2,CP6,BCE-002,02",12,true,false
 95372,BA1-012,AM,2026-07-26,SONICO,0,250.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP2,BA1-012,22",4,false,false
+96415,BCE-009,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poco balanceado en el suelo,"BIO2,CP6,BCE-009,03",12,false,false
 95716,BCE-017,PM,2026-07-27,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,true,false
 95718,BCE-015,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
 95719,BCE-014,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-014,02",12,true,false
 95722,BCE-013,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
 95940,BA1-014,AM,2026-07-28,SONICO,0,425.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-014,22",4,true,false
+96408,PL1-021,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-021,35",9,false,false
+96409,BCE-010,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+96418,BCE-008,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+96420,BCE-005,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO2,CP6,BCE-005,03",12,false,false
+96423,BCE-007,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
+96404,PL1-054,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-054,03",9,false,false
+96600,BSF-001,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-001,21",3,false,false
+96603,BSF-024,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO2,CP1,BSF-024,21",3,false,false
+96607,BSF-010,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-010,21",3,false,false
+96608,BSF-008,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-008,21",3,false,false
+96609,BSF-004,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-004,22",3,false,false
+96611,BSF-033,AM,2026-07-29,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO2,CP1,BSF-033,21",3,false,false
+96613,BSF-032,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-032,21",3,false,false
+96615,BSF-017,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-017,21",3,false,false
+96616,BSF-011,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-011,22",3,true,false
+96618,BSF-018,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-018,21",3,false,false
 80820,BA1-035,AM,2026-05-26,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-035,21",4,false,false
 80821,BA1-037,AM,2026-05-26,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-037,21",4,false,false
 80831,BA1-039,PM,2026-05-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-039,20",4,false,false
@@ -80170,6 +80210,28 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95441,BSF-007,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-007,20",3,false,false
 95723,BCE-012,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,full balanceado en el suelo,"BIO2,CP6,BCE-012,04",12,false,false
 95941,BA1-015,AM,2026-07-28,SONICO,0,325.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-015,22",4,true,false
+96405,PL1-105,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,heces cafes ,"BIO3,CP2,PL1-105,62",9,true,false
+96407,PL1-020,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-020,26",9,false,false
+96413,BCE-011,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-011,01",12,false,false
+96414,PL1-006,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-006,22",9,false,false
+96417,BCE-008,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+96419,BCE-005,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO2,CP6,BCE-005,03",12,false,false
+96422,BCE-007,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
+96620,BSF-034,AM,2026-07-29,SONICO,0,0.00,0.0,3.0,0.0,false,true,false,"","BIO2,CP1,BSF-034,21",3,false,false
+96622,BSF-035,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-035,21",3,false,false
+96625,BSF-105,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-105,51",3,false,false
+96626,BSF-019,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP1,BSF-019,21",3,false,false
+96628,BSF-003,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO2,CP1,BSF-003,22",3,false,false
+96629,BSF-001,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-001,21",3,false,false
+96631,BSF-004,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-004,22",3,true,false
+96634,BSF-008,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-008,21",3,false,false
+96637,BSF-025,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-025,22",3,true,false
+96640,BSF-029,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-029,21",3,false,false
+96642,BSF-010,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-010,21",3,false,false
+96645,BSF-011,PM,2026-07-29,SONICO,0,0.00,3.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-011,22",3,false,false
+96647,BSF-017,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-017,21",3,false,false
+96648,BSF-013,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-013,22",3,false,false
+96650,BSF-013,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-013,22",3,false,false
 80896,BCE-005,AM,2026-05-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-005,02",12,false,false
 80898,PL2-004,PM,2026-05-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-004,21",10,false,false
 80905,BCE-013,PM,2026-05-26,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-013,01",12,false,false
@@ -80220,6 +80282,18 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95452,BSS-031,AM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-031,23",5,false,false
 95724,BCE-010,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
 95942,BA1-012,AM,2026-07-28,SONICO,0,300.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y café ,"BIO2,CP2,BA1-012,22",4,true,false
+96421,PL1-004,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-004,22",9,false,false
+96424,PL1-009,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-009,22",9,false,false
+96621,BSF-035,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-035,21",3,false,false
+96623,BSF-101,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-101,54",3,false,false
+96624,BSF-105,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-105,51",3,false,false
+96627,BSF-003,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO2,CP1,BSF-003,22",3,false,false
+96630,BSF-001,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-001,21",3,false,false
+96632,BSF-004,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-004,22",3,true,false
+96633,BSF-021,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-021,21",3,true,false
+96635,BSF-008,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-008,21",3,false,false
+96636,BSF-024,PM,2026-07-29,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO2,CP1,BSF-024,21",3,false,false
+96638,BSF-025,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-025,22",3,true,false
 80899,BCE-009,AM,2026-05-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,02",12,false,false
 80901,BCE-008,AM,2026-05-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,02",12,false,false
 80903,PL2-008,PM,2026-05-26,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO3,CP3,PL2-008,21",10,false,false
@@ -80367,6 +80441,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 93329,BCE-013,AM,2026-07-18,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-013,02",12,false,false
 93330,BCE-014,AM,2026-07-18,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
 93333,BCE-010,AM,2026-07-18,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+96649,BSF-013,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-013,22",3,false,false
 94058,PL1-053,PM,2026-07-22,TIMER,3,6.00,1.0,8.0,1.0,false,false,false,"Se encontro la sobrante en todas las tolvas,  Pocas heces amarillas Poca actividad ","BIO3,CP2,PL1-053,03",9,true,false
 93902,BA1-027,PM,2026-07-22,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-027,22",4,true,false
 94211,BA1-002,PM,2026-07-23,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,presencia de heces cafe ,"BIO2,CP2,BA1-002,22",4,true,false
@@ -80395,6 +80470,18 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95725,BCE-010,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
 95726,BCE-011,PM,2026-07-27,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,false,false
 95943,BA1-010,AM,2026-07-28,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-010,21",4,true,false
+96425,PL1-040,PM,2026-07-29,TIMER,0,0.00,5.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-040,11",9,true,false
+96639,BSF-028,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-028,22",3,false,false
+96641,BSF-029,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-029,21",3,false,false
+96643,BSF-018,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-018,21",3,false,false
+96644,BSF-011,PM,2026-07-29,SONICO,0,0.00,3.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-011,22",3,false,false
+96646,BSF-017,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-017,21",3,false,false
+96651,BSF-031,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP1,BSF-031,21",3,true,false
+96653,BSF-032,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-032,21",3,false,false
+96654,BSF-033,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-033,21",3,false,false
+96657,BSF-035,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-035,21",3,true,false
+96658,BSF-101,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-101,54",3,false,false
+96659,BSF-105,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-105,51",3,false,false
 80983,BSF-018,PM,2026-05-25,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-018,20",3,false,false
 80984,BSF-017,PM,2026-05-25,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-017,20",3,false,false
 80985,BSF-016,PM,2026-05-25,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-016,21",3,false,false
@@ -80491,6 +80578,10 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95447,BG1-015,AM,2026-07-26,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-015,23",1,false,false
 95727,BSP-010,PM,2026-07-27,SONICO,0,0.00,1.0,1.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-010,10",7,true,false
 95944,BA1-013,AM,2026-07-28,SONICO,0,200.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-013,22",4,true,false
+96426,PL1-106,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-106,38",9,false,false
+96652,BSF-032,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-032,21",3,false,false
+96655,BSF-033,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-033,21",3,false,false
+96656,BSF-034,PM,2026-07-29,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO2,CP1,BSF-034,21",3,false,false
 81048,BG1-015,AM,2026-05-26,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO1,CP1,BG1-015,22",1,true,false
 81049,BG1-017,AM,2026-05-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-017,21",1,false,false
 81051,BG1-016,AM,2026-05-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-016,21",1,false,false
@@ -80773,7 +80864,6 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95947,PL1-050,AM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,true,false,heces amarillas camaron en muda. pepas frescas de balanceado ,"BIO3,CP2,PL1-050,03",9,true,false
 95948,PL1-052,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-052,03",9,false,false
 95949,BA1-038,AM,2026-07-28,SONICO,0,75.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-038,22",4,true,false
-95950,PL1-054,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-054,3",9,false,false
 95951,PL1-053,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-053,03",9,false,false
 95952,PL1-106,AM,2026-07-28,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-106,38",9,false,false
 95953,PL1-020,AM,2026-07-28,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-020,26",9,false,false
@@ -80785,6 +80875,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95960,BA1-035,AM,2026-07-28,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-035,22",4,true,false
 95961,BA1-029,AM,2026-07-28,SONICO,0,300.00,0.0,1.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-029,21",4,true,false
 95959,PL1-033,AM,2026-07-28,TIMER,0,0.00,1.0,0.0,0.0,false,false,false,heces cafes ,"BIO3,CP2,PL1-033,22",9,true,false
+96427,PL1-001,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-001,22",9,true,false
+95950,PL1-054,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-054,03",9,false,false
 81308,BG2-048,AM,2026-05-27,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-048,05",2,false,false
 81312,BG1-005,PM,2026-05-27,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-005,22",1,false,false
 81313,BG1-003,PM,2026-05-27,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-003,21",1,false,false
@@ -80928,7 +81020,6 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95976,PL1-016,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas,"BIO3,CP2,PL1-016,19",9,true,false
 94579,BA1-033,AM,2026-07-24,TIMER,1,200.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-033,22",4,false,false
 94580,BA1-034,AM,2026-07-24,TIMER,0,250.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-034,22",4,false,false
-94907,PL1-054,AM,2026-07-25,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-054,3",9,false,false
 95110,BSF-019,AM,2026-07-25,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-019,21",3,false,false
 95111,BSF-023,AM,2026-07-25,VOLEO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-023,32",3,false,false
 95114,BSF-025,AM,2026-07-25,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO2,CP1,BSF-025,22",3,false,false
@@ -80962,6 +81053,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95972,PL1-006,PM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,buena actividad ,"BIO3,CP2,PL1-006,22",9,false,false
 95973,PL1-009,PM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,pepas frescas de balanceado ,"BIO3,CP2,PL1-009,22",9,false,false
 95977,PL1-015,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-015,20",9,true,false
+96428,PL1-002,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-002,22",9,false,false
+96431,PL1-105,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-105,62",9,false,false
+94907,PL1-054,AM,2026-07-25,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-054,03",9,false,false
 81443,BCE-005,PM,2026-05-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-005,02",12,false,false
 81445,BCE-001,PM,2026-05-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-001,01",12,false,false
 81476,BSS-021,AM,2026-05-28,SONICO,0,0.00,0.0,4.0,0.0,false,false,false,"","BIO2,CP3,BSS-021,22",5,false,false
@@ -81124,9 +81218,11 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95993,PL1-020,PM,2026-07-28,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-020,26",9,false,false
 95992,PL1-050,PM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,heces amarillas . pepas frescas de balancedo ,"BIO3,CP2,PL1-050,03",9,true,false
 95994,PL1-052,PM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-052,03",9,false,false
-95995,PL1-054,PM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-054,3",9,false,false
 96000,PL1-030,PM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,heces cafes ,"BIO3,CP2,PL1-030,23",9,true,false
 96001,PL1-023,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces negras y cafes ,"BIO3,CP2,PL1-023,28",9,true,false
+96429,PL1-030,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,heces cafes ,"BIO3,CP2,PL1-030,23",9,true,false
+96432,PL1-054,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-054,03",9,false,false
+95995,PL1-054,PM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-054,03",9,false,false
 81511,BA1-035,PM,2026-05-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-035,21",4,false,false
 81513,BA1-033,PM,2026-05-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-033,21",4,false,false
 93354,BA1-002,AM,2026-07-19,SONICO,0,150.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP2,BA1-002,22",4,true,false
@@ -81163,6 +81259,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96021,PL2-005,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-005,22",10,false,false
 96022,PL2-008,PM,2026-07-28,SONICO,0,0.00,1.0,1.0,0.0,false,false,false,"","BIO3,CP3,PL2-008,22",10,true,false
 96023,PL2-007,PM,2026-07-28,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO3,CP3,PL2-007,23",10,true,false
+96430,PL1-041,PM,2026-07-29,TIMER,0,0.00,2.0,1.0,0.0,false,true,false,"","BIO3,CP2,PL1-041,11",9,true,false
 81512,BA1-034,PM,2026-05-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-034,21",4,false,false
 81448,BA1-020,AM,2026-05-28,SONICO,0,150.00,0.0,2.0,0.0,false,false,false,"","BIO2,CP2,BA1-020,21",4,false,false
 81514,BA1-036,AM,2026-05-28,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-036,22",4,false,false
@@ -81263,6 +81360,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95465,BSS-013,PM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-013,22",5,false,false
 95743,BA1-030,AM,2026-07-27,TIMER,0,400.00,0.0,0.0,0.0,false,false,false,poca heces amarillas y presencia de heces gris ,"BIO2,CP2,BA1-030,22",4,true,false
 96024,BA1-030,AM,2026-07-28,SONICO,0,300.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-030,22",4,true,false
+96433,PL1-053,PM,2026-07-29,TIMER,2,0.00,0.0,0.0,0.0,false,false,false,sobrantre regular ,"BIO3,CP2,PL1-053,03",9,false,false
 81585,BG1-014,PM,2026-05-28,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO1,CP1,BG1-014,21",1,false,false
 81586,BG1-015,PM,2026-05-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-015,22",1,false,false
 81587,BG1-012,PM,2026-05-28,SONICO,0,0.00,5.0,0.0,0.0,false,true,false,"","BIO1,CP1,BG1-012,22",1,true,false
@@ -81612,6 +81710,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95468,BA1-010,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-010,21",4,true,false
 95744,BA1-032,AM,2026-07-27,SONICO,0,200.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-032,21",4,true,false
 96025,BA1-034,AM,2026-07-28,SONICO,0,300.00,0.0,0.0,0.0,false,false,false,presencia heces cafe ,"BIO2,CP2,BA1-034,22",4,true,false
+96434,PL1-052,PM,2026-07-29,TIMER,3,0.00,0.0,0.0,0.0,false,true,false,ful sobrante de balanceado en el suelo se procede apagar equipos ,"BIO3,CP2,PL1-052,03",9,true,false
 81910,BCE-002,PM,2026-05-30,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,01",12,false,false
 81912,BCE-005,PM,2026-05-30,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-005,02",12,false,false
 81914,BCE-007,PM,2026-05-30,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,02",12,false,false
@@ -81958,6 +82057,10 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96029,BA1-040,AM,2026-07-28,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-040,24",4,false,false
 96030,BA1-011,AM,2026-07-28,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-011,36",4,false,false
 96031,BA1-004,AM,2026-07-28,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-004,32",4,false,false
+96435,PL1-036,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO3,CP2,PL1-036,23",9,true,false
+96436,PL1-003,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-003,22",9,false,false
+96437,BCE-002,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
+96438,BCE-001,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-001,02",12,false,false
 82234,BA1-033,PM,2026-05-31,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-033,21",4,false,false
 82235,BA1-034,PM,2026-05-31,SONICO,3,0.00,0.0,0.0,0.0,false,false,false,balanceado fresco en TM zona 04327,"BIO2,CP2,BA1-034,21",4,false,false
 82236,BA1-035,PM,2026-05-31,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-035,21",4,false,false
@@ -82182,6 +82285,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95746,BA1-037,AM,2026-07-27,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-037,22",4,true,false
 96032,BA1-005,AM,2026-07-28,SONICO,0,200.00,2.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-005,23",4,true,false
 96033,BA1-002,AM,2026-07-28,SONICO,0,75.00,0.0,0.0,0.0,false,true,false,presencia de heces cafe ,"BIO2,CP2,BA1-002,22",4,true,false
+96439,PL1-006,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,ful hecs amarillas,"BIO3,CP2,PL1-006,22",9,true,false
+96440,PL1-034,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-034,22",9,false,false
 82435,BCE-013,AM,2026-06-01,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-013,01",12,false,false
 82437,BCE-017,PM,2026-06-01,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,01",12,false,false
 82438,BCE-016,PM,2026-06-01,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO2,CP6,BCE-016,02",12,false,false
@@ -82326,6 +82431,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95747,BA1-035,AM,2026-07-27,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas ,"BIO2,CP2,BA1-035,22",4,true,false
 96034,BA1-003,AM,2026-07-28,SONICO,0,150.00,0.0,0.0,0.0,false,true,false,presencia de heces amarillas ,"BIO2,CP2,BA1-003,22",4,true,false
 96035,BA1-006,AM,2026-07-28,SONICO,0,175.00,0.0,0.0,0.0,false,true,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-006,22",4,true,false
+96441,PL1-050,PM,2026-07-29,TIMER,3,0.00,0.0,0.0,0.0,false,true,false,FUL SOBRANTE DE BALANCEADO EN EL SUELO SE APAGAN EQUIPOS ,"BIO3,CP2,PL1-050,03",9,true,false
 82575,BG1-008,AM,2026-06-02,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO1,CP1,BG1-008,22",1,false,false
 82576,BG1-003,AM,2026-06-01,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-003,21",1,false,false
 82577,BG1-002,AM,2026-06-01,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-002,23",1,false,true
@@ -82606,6 +82712,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95751,BA1-033,AM,2026-07-27,SONICO,0,250.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas ,"BIO2,CP2,BA1-033,22",4,true,false
 96036,BA1-017,AM,2026-07-28,SONICO,0,275.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y  poca heces cafe ,"BIO2,CP2,BA1-017,22",4,true,false
 96037,BA1-018,AM,2026-07-28,SONICO,0,325.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-018,22",4,true,false
+96442,PL1-005,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-005,22",9,true,false
 82825,BSP-007,AM,2026-06-02,SONICO,0,0.00,1.0,0.0,1.0,false,false,false,"","BIO2,CP5,BSP-007,17",7,false,false
 82829,BSP-009,AM,2026-06-02,SONICO,0,0.00,9.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-009,09",7,false,false
 82830,BSP-010,AM,2026-06-02,SONICO,0,0.00,1.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-010,09",7,false,false
@@ -82976,6 +83083,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95517,BA1-103,PM,2026-07-26,VOLEO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP2,BA1-103,61",4,false,false
 95752,BA1-007,AM,2026-07-27,SONICO,0,275.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-007,23",4,true,false
 96038,BA1-001,AM,2026-07-28,SONICO,0,25.00,3.0,0.0,0.0,false,true,false,"","BIO2,CP2,BA1-001,22",4,false,false
+96443,PL1-009,PM,2026-07-29,TIMER,2,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas - ful sobrante de balanceado en el suelo se apagan equipos ,"BIO3,CP2,PL1-009,22",9,true,false
 83151,BG2-026,AM,2026-06-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-026,21",2,false,false
 83154,BG2-041,AM,2026-06-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-041,21",2,false,false
 83155,BG2-024,AM,2026-06-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-024,20",2,false,false
@@ -83206,6 +83314,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95516,BA1-004,PM,2026-07-26,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-004,32",4,false,false
 95753,BA1-003,AM,2026-07-27,SONICO,0,250.00,0.0,0.0,0.0,false,true,false,presencia de heces amarillas y gris y cafe ,"BIO2,CP2,BA1-003,22",4,true,false
 95984,BA1-021,AM,2026-07-28,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-021,22",4,true,false
+96444,PL1-004,PM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,pepas frescas de balanceado ,"BIO3,CP2,PL1-004,22",9,false,false
 83349,BA1-019,AM,2026-06-05,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-019,21",4,false,false
 83339,BA1-020,AM,2026-06-05,SONICO,0,150.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-020,21",4,false,false
 83348,BA1-026,AM,2026-06-05,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-026,21",4,false,false
@@ -83380,6 +83489,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96039,BA1-020,PM,2026-07-28,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-020,22",4,true,false
 96040,BA1-021,PM,2026-07-28,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-021,22",4,true,false
 96041,BA1-022,PM,2026-07-28,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,poca heces cafe,"BIO2,CP2,BA1-022,22",4,true,false
+96445,PL1-042,PM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,true,false,ful heces amarillas . camaron en muda ,"BIO3,CP2,PL1-042,10",9,true,false
+96447,BCE-016,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-016,03",12,true,false
 83480,PL1-040,PM,2026-06-05,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,"","BIO3,CP2,PL1-040,10",9,false,false
 83481,PL1-041,PM,2026-06-05,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-041,10",9,false,false
 83482,PL1-044,PM,2026-06-05,SONICO,0,0.00,0.0,2.0,0.0,true,false,false,"","BIO3,CP2,PL1-044,09",9,false,false
@@ -83888,6 +83999,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96045,BA1-030,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-030,22",4,true,false
 96046,BA1-027,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-027,22",4,true,false
 95203,BSS-001,AM,2026-07-25,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,HECES GRISES POCAS ,"BIO2,CP3,BSS-001,22",5,true,false
+96446,PL1-011,PM,2026-07-29,TIMER,0,0.00,0.0,1.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-011,21",9,true,false
 83940,BSS-032,AM,2026-06-07,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-032,20",5,false,false
 83943,BSS-037,AM,2026-06-07,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-037,20",5,false,false
 83946,BSS-041,AM,2026-06-07,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-041,21",5,false,false
@@ -84323,6 +84435,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96047,BA1-029,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces gris y presencia de heces cafe ,"BIO2,CP2,BA1-029,21",4,true,false
 96048,BA1-034,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-034,22",4,true,false
 96049,BA1-038,PM,2026-07-28,SONICO,0,0.00,-1.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-038,22",4,true,false
+96448,PL1-010,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,camaron en muda . heces amarillas ,"BIO3,CP2,PL1-010,22",9,true,false
 93493,BSF-016,PM,2026-07-15,SONICO,0,0.00,1.0,0.0,1.0,false,false,false,"","BIO2,CP1,BSF-016,21",3,false,false
 93952,BG2-044,PM,2026-07-21,SONICO,0,0.00,1.0,1.0,1.0,false,false,false,"","BIO1,CP2,BG2-044,07",2,false,false
 94087,PL1-005,AM,2026-07-22,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"Heces gris, full actividad","BIO3,CP2,PL1-005,22",9,true,false
@@ -84421,6 +84534,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96051,BA1-035,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-035,22",4,true,false
 96052,BA1-039,PM,2026-07-28,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-039,21",4,true,false
 96053,BA1-037,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-037,22",4,true,false
+96449,PL1-012,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-012,36",9,false,false
 84157,BA1-002,AM,2026-06-08,SONICO,0,175.00,1.0,5.0,0.0,false,false,false,"","BIO2,CP2,BA1-002,21",4,false,false
 84172,BA1-006,AM,2026-06-08,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-006,22",4,false,false
 84177,BA1-005,PM,2026-06-08,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-005,22",4,false,false
@@ -84726,6 +84840,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95759,BA1-008,AM,2026-07-27,SONICO,0,175.00,0.0,1.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-008,21",4,true,false
 96054,BA1-013,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y ful heces café ,"BIO2,CP2,BA1-013,22",4,true,false
 96055,BA1-006,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-006,22",4,true,false
+96450,PL1-102,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-102,61",9,false,false
 84438,BG2-034,AM,2026-06-09,SONICO,0,0.00,4.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-034,23",2,false,false
 84439,BG1-009,AM,2026-06-09,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-009,23",1,false,false
 84440,BG2-036,AM,2026-06-09,SONICO,0,0.00,2.0,0.0,1.0,false,false,false,"","BIO1,CP2,BG2-036,21",2,false,false
@@ -84882,6 +84997,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95523,BA1-020,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-020,22",4,true,false
 95760,BA1-010,AM,2026-07-27,SONICO,0,75.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-010,21",4,true,false
 96056,BA1-001,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas ,"BIO2,CP2,BA1-001,22",4,true,false
+96451,PL1-024,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas y cafes ,"BIO3,CP2,PL1-024,23",9,true,false
 84569,BA1-028,PM,2026-06-09,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-028,22",4,false,false
 93526,BA1-005,AM,2026-07-20,SONICO,0,175.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-005,23",4,true,false
 93960,BG2-034,PM,2026-07-21,SONICO,0,0.00,0.0,0.0,2.0,false,false,false,"","BIO1,CP2,BG2-034,24",2,true,false
@@ -84898,6 +85014,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96057,BA1-002,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-002,22",4,true,false
 96058,BA1-003,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-003,22",4,true,false
 96059,BA1-007,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-007,23",4,true,false
+96452,PL1-045,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,true,se aplico peroxido . ful heces amarillas ,"BIO3,CP2,PL1-045,13",9,true,false
 84571,BA1-019,PM,2026-06-09,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-019,21",4,false,false
 84574,BA1-005,PM,2026-06-09,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-005,22",4,false,false
 84576,BA1-007,PM,2026-06-09,TIMER,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-007,22",4,false,false
@@ -84909,7 +85026,6 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 94241,BA1-019,PM,2026-07-23,SONICO,0,0.00,3.0,3.0,0.0,false,true,false,presencia de heces cafe ,"BIO2,CP2,BA1-019,21",4,true,false
 94420,BA1-039,PM,2026-07-23,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-039,21",4,true,false
 94657,BA1-026,PM,2026-07-24,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,presencia de heces amarillas ,"BIO2,CP2,BA1-026,22",4,true,false
-94934,PL1-054,PM,2026-07-25,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,ful sobrante de balanceado en el suelo se procede apagar equipos ,"BIO3,CP2,PL1-054,3",9,false,false
 95244,BSP-014,AM,2026-07-26,VOLEO,0,0.00,0.0,2.0,0.0,false,false,false,heces amarillas y cafes adicional sobrante de balanceado en suelo,"BIO2,CP5,BSP-014,18",7,true,false
 95245,BSP-002,AM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,heces amarillas y cafes y poca muda,"BIO2,CP5,BSP-002,19",7,true,false
 95247,BSP-101,AM,2026-07-26,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-101,18",7,false,false
@@ -84928,6 +85044,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95525,BA1-022,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-022,22",4,true,false
 95762,BA1-013,AM,2026-07-27,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,poca heces amarillas y cafe ,"BIO2,CP2,BA1-013,22",4,true,false
 96060,BA1-008,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y ful heces cafe ,"BIO2,CP2,BA1-008,21",4,true,false
+96453,PL1-017,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-017,19",9,true,false
+94934,PL1-054,PM,2026-07-25,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,ful sobrante de balanceado en el suelo se procede apagar equipos ,"BIO3,CP2,PL1-054,03",9,false,false
 84573,BA1-008,PM,2026-06-09,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-008,21",4,false,false
 84575,BA1-010,PM,2026-06-09,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-010,21",4,false,false
 84577,BA1-015,PM,2026-06-09,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP2,BA1-015,21",4,false,false
@@ -84944,6 +85062,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95763,BA1-026,AM,2026-07-27,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-026,22",4,true,false
 96061,BA1-010,PM,2026-07-28,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-010,21",4,true,false
 96062,BA1-009,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-009,21",4,true,false
+96454,PL1-016,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-016,19",9,true,false
 84579,BA1-013,PM,2026-06-09,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-013,21",4,false,false
 84580,BA1-001,AM,2026-06-09,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-001,22",4,false,false
 84379,BA1-002,AM,2026-06-09,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP2,BA1-002,21",4,false,false
@@ -85090,6 +85209,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95527,BA1-026,PM,2026-07-26,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,poca heces cafe,"BIO2,CP2,BA1-026,22",4,true,false
 95764,BA1-023,AM,2026-07-27,SONICO,0,75.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-023,22",4,true,false
 96063,BA1-005,PM,2026-07-28,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-005,23",4,true,false
+96455,PL1-046,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,true,true,camaron en muda . heces amarillas bajon de oxigeno se aplico peroxido ,"BIO3,CP2,PL1-046,10",9,true,false
 84709,BSF-003,PM,2026-06-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-003,22",3,false,false
 84711,BSF-001,PM,2026-06-10,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-001,20",3,false,false
 93530,PL1-006,AM,2026-07-20,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,color cafe,"BIO3,CP2,PL1-006,22",9,true,false
@@ -85108,6 +85228,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95528,BA1-027,PM,2026-07-26,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,poca heces cafe,"BIO2,CP2,BA1-027,22",4,true,false
 95765,BA1-022,AM,2026-07-27,SONICO,0,250.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y cafe ,"BIO2,CP2,BA1-022,22",4,true,false
 96064,BA1-012,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas  poca heces cafe ,"BIO2,CP2,BA1-012,22",4,true,false
+96456,PL1-014,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-014,22",9,true,false
 84710,BSF-002,PM,2026-06-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-002,23",3,false,false
 84716,BSF-027,PM,2026-06-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-027,20",3,false,false
 84720,BSF-029,PM,2026-06-10,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-029,21",3,false,false
@@ -85131,6 +85252,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96065,BA1-014,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-014,22",4,true,false
 96066,BA1-015,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas y poca heces cafe ,"BIO2,CP2,BA1-015,22",4,true,false
 96067,BA1-018,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces amarillas y presencia de heces cafe ,"BIO2,CP2,BA1-018,22",4,true,false
+96457,PL1-022,PM,2026-07-29,SONICO,0,0.00,1.0,1.0,0.0,false,true,false,camaron en muda y ful heces amarillas ,"BIO3,CP2,PL1-022,23",9,true,false
 84712,BSF-023,PM,2026-06-10,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-023,31",3,false,false
 84715,BSF-020,PM,2026-06-10,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-020,20",3,false,false
 84717,BSF-027,PM,2026-06-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-027,20",3,false,false
@@ -85210,6 +85332,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95530,BA1-018,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencias de heces amarillas y gris y cafe ,"BIO2,CP2,BA1-018,22",4,true,false
 95767,BA1-018,AM,2026-07-27,SONICO,0,300.00,0.0,0.0,0.0,false,true,false,poca heces amarillas y presencia de heces café ,"BIO2,CP2,BA1-018,22",4,true,false
 96068,BA1-017,PM,2026-07-28,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,poca heces amarillas presencia de heces cafe ,"BIO2,CP2,BA1-017,22",4,true,false
+96458,PL1-043,PM,2026-07-29,SONICO,3,0.00,0.0,0.0,0.0,false,false,false,se encontro balanceado en la tolva 75981 SE procedio a suspender ,"BIO3,CP2,PL1-043,10",9,false,false
 84784,BCE-009,PM,2026-06-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,02",12,false,false
 84785,BA1-020,AM,2026-06-10,SONICO,0,0.00,1.0,0.0,1.0,false,false,false,"","BIO2,CP2,BA1-020,21",4,false,false
 84787,BA1-022,AM,2026-06-10,SONICO,0,0.00,0.0,2.0,1.0,false,false,false,"","BIO2,CP2,BA1-022,21",4,false,false
@@ -85315,6 +85438,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96117,BCE-013,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
 96120,BCE-014,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,true,false
 96121,BCE-015,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-015,02",12,true,false
+96459,PL1-013,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-013,20",9,true,false
+96462,PL1-047,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-047,10",9,true,false
 84848,PL1-034,PM,2026-06-10,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-034,21",9,true,false
 84850,PL1-053,PM,2026-06-10,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-053,02",9,true,false
 84852,PL1-036,PM,2026-06-10,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-036,22",9,false,false
@@ -85491,6 +85616,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96118,BCE-013,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
 96119,BCE-014,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,true,false
 96122,BCE-015,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-015,02",12,true,false
+96460,PL1-019,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafes y amarillas ,"BIO3,CP2,PL1-019,19",9,true,false
 84981,BSP-011,AM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-011,09",7,false,false
 84982,BSP-012,AM,2026-06-11,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-012,18",7,false,false
 84987,BSP-011,PM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-011,09",7,false,false
@@ -85610,7 +85736,6 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95283,PL1-052,AM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-052,03",9,false,false
 95284,PL1-053,AM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-053,03",9,false,false
 95285,PL2-001,AM,2026-07-26,TIMER,0,0.00,0.0,0.0,1.0,false,false,false,Se observa actividad,"BIO3,CP3,PL2-001,22",10,false,false
-95286,PL1-054,AM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-054,3",9,false,false
 85049,BCE-008,PM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,02",12,false,false
 85053,BCE-007,PM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,02",12,false,false
 85060,BCE-003,PM,2026-06-11,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,full balanceado en el suelo,"BIO2,CP6,BCE-003,02",12,false,false
@@ -85669,6 +85794,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96141,BSF-013,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-013,22",3,false,false
 96142,BSF-011,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-011,22",3,false,false
 96143,BSF-010,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-010,21",3,false,false
+96461,PL1-021,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-021,35",9,false,false
 85050,BCE-009,PM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,02",12,false,false
 85054,BCE-006,PM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-006,02",12,false,false
 85056,BCE-005,PM,2026-06-11,SONICO,0,0.00,0.0,2.0,1.0,false,false,false,"","BIO2,CP6,BCE-005,02",12,false,false
@@ -85724,6 +85850,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96165,BSF-013,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-013,22",3,false,false
 96166,BSF-105,PM,2026-07-28,VOLEO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP1,BSF-105,51",3,false,false
 96167,BSF-101,PM,2026-07-28,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-101,54",3,false,false
+96463,PL1-020,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-020,26",9,false,false
 85058,BCE-004,PM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
 85065,PJF-003,PM,2026-06-11,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP1,PJF-003,22",8,false,false
 85066,PJF-008,PM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP1,PJF-008,20",8,false,false
@@ -85837,6 +85964,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96194,BG2-036,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-036,22",2,false,false
 96196,BG2-034,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-034,24",2,false,false
 96197,BG2-043,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-043,07",2,false,false
+96464,PL1-023,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ful,"BIO3,CP2,PL1-023,28",9,true,false
 85129,BSS-032,AM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-032,20",5,false,false
 85131,BSS-037,AM,2026-06-11,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-037,20",5,false,false
 85133,BSS-039,AM,2026-06-11,VOLEO,0,0.00,1.0,10.0,0.0,false,false,false,"","BIO2,CP3,BSS-039,21",5,false,false
@@ -86072,6 +86200,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 96193,BG2-030,PM,2026-07-28,SONICO,0,0.00,1.0,1.0,1.0,false,true,false,"","BIO1,CP2,BG2-030,22",2,false,false
 96195,BG2-044,PM,2026-07-28,SONICO,0,0.00,1.0,0.0,2.0,false,false,false,"","BIO1,CP2,BG2-044,07",2,false,false
 96198,BG2-033,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-033,23",2,false,false
+96465,PL1-018,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas y cafe ,"BIO3,CP2,PL1-018,19",9,true,false
 85327,BG2-023,PM,2026-06-12,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-023,21",2,false,false
 85328,BG2-026,PM,2026-06-12,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-026,21",2,false,false
 85333,BG2-033,PM,2026-06-12,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-033,22",2,false,false
@@ -86089,6 +86218,18 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95779,BCE-005,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocos granos en el suelo,"BIO2,CP6,BCE-005,03",12,false,false
 95783,BCE-002,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poco balanceado en el suelo,"BIO2,CP6,BCE-002,02",12,false,false
 95785,BA1-102,AM,2026-07-27,VOLEO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP2,BA1-102,57",4,false,false
+96199,BSS-025,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-025,25",5,false,false
+96200,BSS-011,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-011,21",5,true,false
+96201,BSS-012,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-012,21",5,false,false
+96202,BSS-013,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-013,22",5,false,false
+96203,BSS-014,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-014,21",5,true,false
+96204,BSS-015,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-015,21",5,true,false
+96205,BSS-016,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-016,21",5,true,false
+96206,BSS-017,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-017,21",5,true,false
+96207,BSS-018,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-018,23",5,false,false
+96209,BSS-020,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-020,23",5,false,false
+96208,BSS-019,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-019,22",5,false,false
+96466,PL1-044,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-044,10",9,true,false
 85329,BG2-028,PM,2026-06-12,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-028,21",2,false,false
 85332,BG2-029,PM,2026-06-12,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-029,21",2,false,false
 85337,PL1-041,PM,2026-06-12,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-041,10",9,true,false
@@ -86104,9 +86245,49 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95302,PL1-030,AM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-030,23",9,false,false
 95539,PL1-011,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"camaron en muda, heces amarillas y cafe ","BIO3,CP2,PL1-011,21",9,true,false
 95540,PL1-028,PM,2026-07-26,VOLEO,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-028,22",9,false,false
-95541,PL1-054,PM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-054,3",9,true,false
 95542,PL1-014,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-014,22",9,true,false
 95789,BA1-028,AM,2026-07-27,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-028,22",4,false,false
+96213,BSS-023,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-023,22",5,false,false
+96215,BSS-027,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-027,22",5,false,false
+96216,BSS-026,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-026,22",5,false,false
+96217,BSS-028,AM,2026-07-28,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP3,BSS-028,22",5,true,false
+96218,BSS-031,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-031,23",5,false,false
+96220,BSS-033,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-033,21",5,false,false
+96221,BSS-034,AM,2026-07-28,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO2,CP3,BSS-034,21",5,true,false
+96222,BSS-038,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-038,21",5,false,false
+96223,BSS-039,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-039,21",5,false,false
+96224,BSS-040,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-040,23",5,false,false
+96225,BSS-041,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,"","BIO2,CP3,BSS-041,22",5,false,false
+96227,BSS-043,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-043,22",5,false,false
+96228,BSS-044,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-044,22",5,false,false
+96219,BA1-034,AM,2026-07-29,SONICO,0,325.00,0.0,0.0,0.0,false,true,false,"poca muda, presencia de heces cafe, amarilla","BIO2,CP2,BA1-034,22",4,false,false
+96229,BSS-001,AM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-001,22",5,false,false
+96230,BSS-002,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-002,21",5,true,false
+96232,BSS-003,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-003,21",5,false,false
+96233,BSS-005,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-005,20",5,false,false
+96235,BSS-006,AM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-006,21",5,false,false
+96236,BSS-008,AM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-008,22",5,false,false
+96237,BSS-016,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-016,21",5,true,false
+96238,BSS-015,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-015,21",5,true,false
+96239,BA1-029,AM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"poca muda, pocas heces cafe, presencia de heces amarillas ","BIO2,CP2,BA1-029,21",4,false,false
+96240,BSS-013,PM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-013,22",5,false,false
+96241,BSS-011,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-011,21",5,true,false
+96243,BSS-008,PM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-008,22",5,false,false
+96244,BSS-031,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,2.0,false,false,false,"","BIO2,CP3,BSS-031,23",5,false,false
+96245,BSS-006,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-006,21",5,false,false
+96246,BSS-005,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-005,20",5,true,false
+96248,BSS-003,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-003,21",5,true,false
+96249,BSS-034,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,3.0,false,false,false,"","BIO2,CP3,BSS-034,21",5,false,false
+96242,BA1-007,AM,2026-07-29,SONICO,0,25.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-007,23",4,false,false
+96250,BA1-010,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-010,21",4,true,false
+96231,BA1-030,AM,2026-07-29,SONICO,0,375.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-030,22",4,false,false
+96234,BA1-032,AM,2026-07-29,SONICO,2,300.00,0.0,0.0,0.0,false,false,false,"balanceado fresco en suelo, se apago equipos hasta pasar rastrillo, pocas heces cafe","BIO2,CP2,BA1-032,21",4,false,false
+96226,BA1-033,AM,2026-07-29,SONICO,1,250.00,0.0,0.0,0.0,false,false,false,pepas de balanceado fresco en suelo,"BIO2,CP2,BA1-033,22",4,false,false
+96214,BA1-035,AM,2026-07-29,SONICO,0,175.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-035,22",4,false,false
+96210,BA1-037,AM,2026-07-29,SONICO,0,25.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP2,BA1-037,22",4,true,false
+96211,BA1-038,AM,2026-07-29,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-038,22",4,false,false
+96212,BA1-039,AM,2026-07-29,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,presencia de heces café,"BIO2,CP2,BA1-039,21",4,false,false
+95541,PL1-054,PM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-054,03",9,true,false
 85330,BG2-031,PM,2026-06-12,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-031,22",2,false,false
 85334,BG2-033,PM,2026-06-12,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-033,22",2,false,false
 85335,BG2-034,PM,2026-06-12,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-034,23",2,false,false
@@ -86392,6 +86573,16 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95546,PL1-020,PM,2026-07-26,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-020,26",9,true,false
 95547,PL1-040,PM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-040,11",9,false,false
 95790,BA1-027,AM,2026-07-27,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-027,22",4,false,false
+96251,BSS-002,PM,2026-07-28,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP3,BSS-002,21",5,true,false
+96252,BSS-001,PM,2026-07-28,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-001,22",5,false,false
+96254,BSS-033,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-033,21",5,false,false
+96255,BSS-038,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-038,21",5,false,false
+96257,BSS-039,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-039,21",5,false,false
+96258,BA1-005,AM,2026-07-29,SONICO,0,225.00,0.0,0.0,0.0,false,false,false,"presencia de heces amarillas, pocas heces cafe","BIO2,CP2,BA1-005,23",4,true,false
+96256,BA1-006,AM,2026-07-29,SONICO,0,150.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-006,22",4,true,false
+96259,BA1-014,AM,2026-07-29,SONICO,0,350.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-014,22",4,true,false
+96253,BA1-018,AM,2026-07-29,SONICO,0,350.00,0.0,0.0,0.0,false,false,false,"presencia de heces amarillas, cafe","BIO2,CP2,BA1-018,22",4,true,false
+96467,PL1-015,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,fyul heces amarillas ,"BIO3,CP2,PL1-015,20",9,true,false
 85595,BG2-034,PM,2026-06-13,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-034,23",2,false,false
 85596,BG2-036,PM,2026-06-13,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO1,CP2,BG2-036,21",2,false,false
 85597,BG2-039,PM,2026-06-13,SONICO,0,0.00,1.0,1.0,0.0,false,true,false,"","BIO1,CP2,BG2-039,21",2,false,false
@@ -86742,6 +86933,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 85972,BCE-006,AM,2026-06-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-006,02",12,false,false
 85974,BCE-004,AM,2026-06-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
 85977,BCE-003,AM,2026-06-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,02",12,false,false
+96260,BA1-001,AM,2026-07-29,SONICO,0,350.00,2.0,0.0,0.0,false,true,false,"poca muda, pocas heces cafe, presencia de heces amarillas.","BIO2,CP2,BA1-001,22",4,false,false
+96261,BA1-012,AM,2026-07-29,SONICO,0,250.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-012,22",4,true,false
+96468,PL1-026,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-026,22",9,false,false
 85943,BCE-007,PM,2026-06-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,02",12,false,false
 85944,BCE-006,PM,2026-06-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-006,02",12,false,false
 85947,BCE-005,PM,2026-06-14,SONICO,0,0.00,2.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-005,02",12,false,false
@@ -86823,6 +87017,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95306,PL2-008,PM,2026-07-26,SONICO,0,0.00,3.0,1.0,0.0,false,false,false,Se observa actividad y heces cafe. ,"BIO3,CP3,PL2-008,22",10,true,false
 95551,PL1-017,PM,2026-07-26,SONICO,1,0.00,0.0,1.0,0.0,false,false,false,pepas frescas de balanceado . heces amarillas ,"BIO3,CP2,PL1-017,19",9,true,false
 95792,BA1-028,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-028,22",4,true,false
+96262,BA1-008,AM,2026-07-29,SONICO,0,175.00,0.0,0.0,0.0,false,false,false,"presencia de heces cafe, amarillas","BIO2,CP2,BA1-008,21",4,true,false
+96469,PL1-103,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-103,51",9,false,false
 86027,BCE-011,PM,2026-06-15,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,false,false
 86028,BCE-012,PM,2026-06-15,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-012,03",12,false,false
 86030,BCE-003,PM,2026-06-15,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,02",12,false,false
@@ -87549,6 +87745,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95310,PL2-011,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Se observa actividad y heces color cafe. ,"BIO3,CP3,PL2-011,22",10,true,false
 95552,PL1-041,PM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-041,11",9,false,false
 95793,BA1-027,PM,2026-07-27,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,presencia de heces amarillas ,"BIO2,CP2,BA1-027,22",4,true,false
+96263,BA1-009,AM,2026-07-29,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,"presencia de heces cafe, amarillas","BIO2,CP2,BA1-009,21",4,true,false
+96470,PL1-025,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-025,22",9,false,false
 86690,BCE-005,AM,2026-06-17,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO2,CP6,BCE-005,02",12,false,false
 86692,BCE-004,AM,2026-06-17,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
 86693,BCE-003,AM,2026-06-17,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,02",12,false,false
@@ -87772,6 +87970,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95311,PL2-007,PM,2026-07-26,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,Se observa actividad,"BIO3,CP3,PL2-007,23",10,false,false
 95553,PL1-042,PM,2026-07-26,SONICO,0,0.00,2.0,0.0,0.0,false,true,false,camaron en muda ,"BIO3,CP2,PL1-042,10",9,false,false
 95794,BA1-032,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-032,21",4,true,false
+96264,BA1-002,AM,2026-07-29,SONICO,0,250.00,0.0,0.0,0.0,false,true,false,"poca muda, presencia de heces cafe","BIO2,CP2,BA1-002,22",4,true,false
+96471,PL1-033,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-033,22",9,true,false
 86886,BG2-026,PM,2026-06-18,SONICO,0,0.00,1.0,1.0,0.0,false,false,false,"","BIO1,CP2,BG2-026,21",2,false,false
 86887,PJF-005,PM,2026-06-18,TIMER,0,0.00,4.0,0.0,1.0,false,false,false,"","BIO3,CP1,PJF-005,20",8,false,false
 86890,PJF-004,PM,2026-06-18,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP1,PJF-004,21",8,false,false
@@ -87918,6 +88118,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95555,PL1-025,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,buena actividad ,"BIO3,CP2,PL1-025,22",9,false,false
 95556,PL1-016,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafes ,"BIO3,CP2,PL1-016,19",9,true,false
 95795,BA1-037,PM,2026-07-27,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,presencia de heces gris poca heces cafe ,"BIO2,CP2,BA1-037,22",4,true,false
+96265,BA1-015,AM,2026-07-29,SONICO,0,150.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-015,22",4,true,false
+96472,PL1-007,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-007,22",9,false,false
 87030,BCE-011,PM,2026-06-19,TIMER,0,0.00,0.0,0.0,1.0,true,false,false,"","BIO2,CP6,BCE-011,01",12,false,false
 93570,BA1-035,PM,2026-07-20,VOLEO,0,0.00,0.0,0.0,0.0,true,false,false,"","BIO2,CP2,BA1-035,22",4,false,false
 93571,BA1-036,PM,2026-07-20,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-036,22",4,true,false
@@ -87933,6 +88135,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95316,PL1-002,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-002,22",9,true,false
 95557,PL1-043,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,true,se aplico peroxido. fuel heces amarillas ,"BIO3,CP2,PL1-043,10",9,true,false
 95796,BA1-038,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-038,22",4,true,false
+96266,BA1-013,AM,2026-07-29,SONICO,0,275.00,0.0,0.0,0.0,false,false,false,"presencia de heces cafe, amarilla","BIO2,CP2,BA1-013,22",4,true,false
+96473,PL2-008,AM,2026-07-29,SONICO,0,0.00,10.0,1.0,1.0,false,true,false,"","BIO3,CP3,PL2-008,22",10,false,false
 87032,BCE-009,PM,2026-06-19,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,02",12,false,false
 87034,BCE-008,PM,2026-06-19,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP6,BCE-008,02",12,false,false
 87036,BCE-015,PM,2026-06-19,VOLEO,0,0.00,0.0,15.0,3.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
@@ -87948,6 +88152,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95317,PL1-045,PM,2026-07-26,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,heces amarillas y camaron en muda ,"BIO3,CP2,PL1-045,13",9,true,false
 95558,PL1-047,PM,2026-07-26,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-047,10",9,true,false
 95797,BA1-039,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful  heces cafe ,"BIO2,CP2,BA1-039,21",4,true,false
+96267,BA1-017,AM,2026-07-29,SONICO,0,275.00,0.0,0.0,0.0,false,false,false,"pocas heces cafe, presencia de heces amarillas","BIO2,CP2,BA1-017,22",4,true,false
+96474,PL2-007,AM,2026-07-29,SONICO,0,0.00,2.0,0.0,0.0,false,true,false,"","BIO3,CP3,PL2-007,23",10,false,false
+96478,PL2-001,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-001,22",10,false,false
 87033,BCE-008,PM,2026-06-19,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP6,BCE-008,02",12,false,false
 87035,BCE-015,PM,2026-06-19,VOLEO,0,0.00,0.0,15.0,3.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
 87037,BCE-014,PM,2026-06-19,VOLEO,0,0.00,0.0,15.0,4.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
@@ -88399,6 +88606,13 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95318,PL1-046,PM,2026-07-26,SONICO,0,0.00,3.0,2.0,0.0,false,true,false,heces amarillas y camaron en muda ,"BIO3,CP2,PL1-046,10",9,true,false
 95559,PL1-044,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,true,ful heces amarillas... se aplico peroxido ,"BIO3,CP2,PL1-044,10",9,true,false
 95798,BA1-035,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces gris ,"BIO2,CP2,BA1-035,22",4,true,false
+96268,BSS-041,PM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-041,22",5,false,false
+96269,BSS-043,PM,2026-07-28,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP3,BSS-043,22",5,false,false
+96271,BA1-026,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-026,22",4,true,false
+96475,PL2-013,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-013,23",10,false,false
+96476,PL2-010,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP3,PL2-010,22",10,false,false
+96479,PL2-003,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-003,22",10,false,false
+96273,BA1-023,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-023,22",4,true,false
 87472,BCE-015,PM,2026-06-21,TIMER,0,0.00,0.0,4.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
 93583,BG2-049,PM,2026-07-19,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-049,06",2,false,false
 87475,BA1-002,PM,2026-06-21,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-002,21",4,false,false
@@ -88920,6 +89134,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95560,PL1-010,PM,2026-07-26,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO3,CP2,PL1-010,22",9,true,false
 95561,PL1-012,PM,2026-07-26,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-012,36",9,false,false
 95799,BA1-021,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces gris y poca heces cafe ,"BIO2,CP2,BA1-021,22",4,true,false
+96270,BSS-044,PM,2026-07-28,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,AMARILLAS,"BIO2,CP3,BSS-044,22",5,true,false
+96272,BSS-025,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,2.0,false,true,false,"","BIO2,CP3,BSS-025,25",5,false,false
+96477,PL2-011,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP3,PL2-011,22",10,false,false
 87966,BCE-009,AM,2026-06-23,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,02",12,false,false
 87968,BCE-011,AM,2026-06-23,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,false,false
 87969,BCE-103,AM,2026-06-23,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-103,02",12,false,false
@@ -89130,6 +89347,10 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95321,BSP-006,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-006,19",7,true,false
 95562,PL1-026,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafes ,"BIO3,CP2,PL1-026,22",9,true,false
 95800,BA1-034,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces gris ,"BIO2,CP2,BA1-034,22",4,true,false
+96480,PL2-002,AM,2026-07-29,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-002,22",10,true,false
+96276,BA1-022,PM,2026-07-29,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,"pocas heces cafe, presencia de heces gris","BIO2,CP2,BA1-022,22",4,true,false
+96275,BA1-021,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"pocas heces cafe, pocas heces amarillas","BIO2,CP2,BA1-021,22",4,true,false
+96274,BA1-020,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,1.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-020,22",4,true,false
 88169,BCE-003,PM,2026-06-24,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,02",12,false,false
 88170,BCE-004,PM,2026-06-24,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
 88173,BCE-013,PM,2026-06-24,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-013,02",12,false,false
@@ -89844,6 +90065,13 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95563,PL1-013,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP2,PL1-013,20",9,true,false
 95801,BA1-026,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas ,"BIO2,CP2,BA1-026,22",4,true,false
 95802,BA1-023,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-023,22",4,true,false
+96278,BSS-028,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-028,22",5,false,false
+96281,BSS-028,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-028,22",5,false,false
+96284,BSS-034,AM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP3,BSS-034,21",5,false,false
+96279,BA1-018,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"ful heces cafe, presencia de heces amarillas","BIO2,CP2,BA1-018,22",4,true,false
+96288,BSS-039,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-039,21",5,false,false
+96277,BA1-027,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-027,22",4,true,false
+96481,PL2-004,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-004,22",10,false,false
 88867,BSF-031,PM,2026-06-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-031,21",3,false,false
 88868,BSF-030,PM,2026-06-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-030,21",3,false,false
 88869,BSF-029,PM,2026-06-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-029,21",3,false,false
@@ -90298,6 +90526,13 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95327,BSP-005,PM,2026-07-26,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-005,36",7,true,false
 95564,PL1-050,PM,2026-07-26,TIMER,2,0.00,0.0,0.0,0.0,false,false,false,"ful heces amarillas . ful sobrante en el suelo, sin internet en el campo , falla dela torre principal ","BIO3,CP2,PL1-050,03",9,true,false
 95803,BA1-033,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces gris y poca heces cafe ,"BIO2,CP2,BA1-033,22",4,true,false
+96280,BSS-025,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-025,25",5,false,false
+96283,BSS-033,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-033,21",5,false,false
+96286,BSS-027,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-027,22",5,false,false
+96287,BSS-038,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,2.0,false,false,false,"","BIO2,CP3,BSS-038,21",5,false,false
+96482,PL2-005,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces amarillas ,"BIO3,CP3,PL2-005,22",10,true,false
+96485,PL2-011,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO3,CP3,PL2-011,22",10,true,false
+96487,PL2-003,PM,2026-07-29,TIMER,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO3,CP3,PL2-003,22",10,false,false
 89314,BA1-006,AM,2026-07-01,SONICO,0,300.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-006,22",4,false,false
 89315,BA1-008,AM,2026-07-01,SONICO,0,275.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-008,21",4,false,false
 89316,BA1-009,AM,2026-07-01,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-009,21",4,false,false
@@ -90377,6 +90612,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95326,BSP-003,PM,2026-07-26,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-003,18",7,true,false
 95565,PL1-033,PM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafes y amarillas ,"BIO3,CP2,PL1-033,22",9,true,false
 95804,BA1-022,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-022,22",4,true,false
+96282,BSS-031,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-031,23",5,false,false
+96285,BSS-026,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-026,22",5,false,false
+96483,PL2-001,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-001,22",10,true,false
 89379,BCE-002,PM,2026-07-01,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
 89380,BCE-002,PM,2026-07-01,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
 93603,BG1-006,PM,2026-07-19,SONICO,0,0.00,3.0,0.0,0.0,false,true,false,"","BIO1,CP1,BG1-006,24",1,false,false
@@ -90394,6 +90632,15 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95568,PL1-001,PM,2026-07-26,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,FUL HECES CAFES ,"BIO3,CP2,PL1-001,22",9,true,false
 95569,PL1-007,PM,2026-07-26,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,heces amarillas y cafes ,"BIO3,CP2,PL1-007,22",9,true,false
 95805,BA1-030,PM,2026-07-27,SONICO,1,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas ,"BIO2,CP2,BA1-030,22",4,true,false
+96289,BSS-040,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-040,23",5,false,false
+96290,BSS-041,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-041,22",5,true,false
+96291,BSS-043,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-043,22",5,true,false
+96292,BSS-044,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-044,22",5,false,false
+96295,BSS-003,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-003,21",5,true,false
+96296,BSS-005,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-005,20",5,false,false
+96299,BSS-008,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-008,22",5,false,false
+96484,PL2-004,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-004,22",10,true,false
+96489,PL2-008,PM,2026-07-29,TIMER,0,0.00,3.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-008,22",10,true,false
 89382,BCE-001,PM,2026-07-01,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-001,02",12,false,false
 89384,PL1-016,AM,2026-07-01,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Pocas heces color cafe, buena actividad","BIO3,CP2,PL1-016,19",9,true,false
 89385,PL1-015,AM,2026-07-01,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Heces color amarillas, buena actividad","BIO3,CP2,PL1-015,20",9,true,false
@@ -90668,6 +90915,11 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95573,BSP-005,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-005,36",7,true,false
 95574,BSP-006,AM,2026-07-27,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-006,19",7,true,false
 95806,BA1-020,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces amarillas ,"BIO2,CP2,BA1-020,22",4,true,false
+96293,BSS-001,AM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-001,22",5,false,false
+96297,BSS-006,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-006,21",5,false,false
+96486,PL2-003,PM,2026-07-29,TIMER,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO3,CP3,PL2-003,22",10,false,false
+96488,PL2-013,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-013,23",10,false,false
+96490,PL2-008,PM,2026-07-29,TIMER,0,0.00,3.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-008,22",10,true,false
 89575,BG1-017,PM,2026-07-02,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO1,CP1,BG1-017,22",1,false,false
 89576,BG1-014,PM,2026-07-02,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-014,22",1,false,false
 89577,BG2-027,PM,2026-07-01,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-027,22",2,false,false
@@ -90755,6 +91007,11 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95579,BSP-012,AM,2026-07-27,SONICO,0,0.00,2.0,1.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-012,18",7,true,false
 95580,BSP-013,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas y cafes,"BIO2,CP5,BSP-013,19",7,true,false
 95807,BA1-017,PM,2026-07-27,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,poca heces gris y presencia de heces cafe ,"BIO2,CP2,BA1-017,22",4,true,false
+96294,BSS-002,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-002,21",5,true,false
+96298,BSS-007,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-007,21",5,false,false
+96300,BSS-011,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-011,21",5,true,false
+96491,BSP-001,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-001,19",7,false,false
+96492,BSP-002,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-002,19",7,true,false
 89642,BA1-034,AM,2026-07-02,SONICO,0,300.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-034,21",4,false,false
 93609,BA1-008,PM,2026-07-20,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-008,21",4,true,false
 89651,PL1-007,PM,2026-07-02,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Pocas heces amarillas,"BIO3,CP2,PL1-007,22",9,true,false
@@ -90783,6 +91040,12 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95586,BSP-104,AM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-104,17",7,false,false
 95587,BSP-106,AM,2026-07-27,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-106,42",7,false,false
 95808,BA1-018,PM,2026-07-27,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,poca heces cafe,"BIO2,CP2,BA1-018,22",4,true,false
+96301,BSS-012,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-012,21",5,true,false
+96305,BSS-017,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-017,21",5,false,false
+96493,BSP-003,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-003,18",7,false,false
+96494,BSP-005,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-005,36",7,false,false
+96495,BSP-006,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-006,19",7,false,false
+96496,BSP-007,AM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-007,18",7,false,false
 89643,BA1-035,AM,2026-07-02,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-035,21",4,false,false
 89648,BA1-039,AM,2026-07-02,SONICO,0,175.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-039,21",4,false,false
 89649,BA1-025,PM,2026-07-02,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-025,22",4,true,false
@@ -91057,6 +91320,16 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95604,BG1-011,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-011,22",1,false,false
 95607,BG1-008,PM,2026-07-27,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-008,23",1,false,false
 95809,BA1-010,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-010,21",4,true,false
+96302,BSS-013,AM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-013,22",5,false,false
+96303,BSS-015,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-015,21",5,false,false
+96306,BSS-018,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-018,23",5,false,false
+96307,BSS-020,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-020,23",5,false,false
+96497,BSP-008,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-008,10",7,true,false
+96498,BSP-009,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-009,10",7,false,false
+96499,BSP-010,AM,2026-07-29,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-010,10",7,false,false
+96500,BSP-011,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-011,10",7,false,false
+96501,BSP-012,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-012,18",7,true,false
+96502,BSP-013,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-013,19",7,true,false
 89897,BCE-001,AM,2026-07-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-001,02",12,false,false
 89900,BG2-030,PM,2026-07-03,SONICO,0,3.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-030,22",2,false,false
 89902,BCE-003,AM,2026-07-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,02",12,false,false
@@ -91377,6 +91650,14 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95605,PL1-004,AM,2026-07-27,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP2,PL1-004,22",9,false,false
 95606,BG1-010,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-010,21",1,false,false
 95810,BA1-009,PM,2026-07-27,SONICO,0,0.00,0.0,3.0,0.0,false,false,false,presencia de heces gris y poca heces cafe ,"BIO2,CP2,BA1-009,21",4,true,false
+96304,BSS-016,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-016,21",5,false,false
+96308,BSS-019,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-019,22",5,false,false
+96503,BSP-014,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,balanceado fresco,"BIO2,CP5,BSP-014,18",7,false,false
+96504,BSP-015,AM,2026-07-29,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-015,18",7,false,false
+96505,BSP-101,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-101,18",7,false,false
+96506,BSP-102,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-102,09",7,false,false
+96507,BSP-103,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-103,24",7,false,false
+96508,BSP-104,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-104,17",7,false,false
 90202,BSS-014,AM,2026-07-05,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-014,21",5,true,false
 90204,BA1-024,PM,2026-07-05,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-024,22",4,true,false
 90206,BA1-029,PM,2026-07-05,SONICO,3,0.00,0.0,0.0,0.0,true,false,false,"","BIO2,CP2,BA1-029,21",4,false,false
@@ -91400,6 +91681,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95338,BSP-105,PM,2026-07-26,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-105,17",7,false,false
 95608,BG2-024,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-024,21",2,false,false
 95811,BA1-008,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe,"BIO2,CP2,BA1-008,21",4,true,false
+96309,BSS-001,PM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-001,22",5,false,false
+96509,BSP-106,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-106,42",7,false,false
+96510,BSP-107,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-107,21",7,false,false
 90203,BSS-022,AM,2026-07-05,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-022,22",5,true,false
 90199,BSS-009,AM,2026-07-05,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-009,21",5,true,false
 90213,BSS-001,AM,2026-07-05,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-001,21",5,true,false
@@ -91517,6 +91801,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95610,BG2-027,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO1,CP2,BG2-027,22",2,false,false
 95812,BA1-040,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-040,24",4,true,false
 95814,BA1-011,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-011,36",4,false,false
+96310,BSS-031,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-031,23",5,true,false
+96511,BSP-001,PM,2026-07-29,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,heces amarillas y cafe,"BIO2,CP5,BSP-001,19",7,true,false
 90278,BCE-003,AM,2026-07-06,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-003,02",12,false,false
 90279,BCE-004,AM,2026-07-06,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
 90281,BCE-006,AM,2026-07-06,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-006,02",12,false,false
@@ -91608,6 +91894,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95611,BG2-028,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-028,22",2,false,false
 95813,BA1-004,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-004,32",4,false,false
 95815,BA1-102,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP2,BA1-102,57",4,false,false
+96311,BA1-017,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,1.0,false,false,false,"presencia de heces cafe, amarillas","BIO2,CP2,BA1-017,22",4,true,false
+96512,BSP-002,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,heces amarillas,"BIO2,CP5,BSP-002,19",7,true,false
+96513,BSP-003,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas,"BIO2,CP5,BSP-003,18",7,true,false
 90348,BA1-012,AM,2026-07-06,SONICO,0,75.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-012,22",4,false,false
 90355,BA1-027,AM,2026-07-06,SONICO,0,350.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-027,22",4,false,false
 90356,BA1-028,AM,2026-07-06,SONICO,0,425.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-028,22",4,false,false
@@ -91760,6 +92049,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95341,BA1-034,AM,2026-07-26,SONICO,0,400.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-034,22",4,true,false
 95612,BG2-030,PM,2026-07-27,SONICO,0,0.00,1.0,2.0,0.0,false,true,false,"","BIO1,CP2,BG2-030,22",2,true,false
 95816,BA1-103,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,2.0,false,false,false,"","BIO2,CP2,BA1-103,61",4,false,false
+96312,BA1-024,PM,2026-07-29,VOLEO,2,0.00,0.0,0.0,0.0,false,false,false,"balanceado fresco en suelo, pocas heces cafe","BIO2,CP2,BA1-024,23",4,false,false
+96514,BSP-005,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,heces amarillas,"BIO2,CP5,BSP-005,36",7,true,false
+96515,BSP-006,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-006,19",7,false,false
 90481,BCE-002,AM,2026-07-07,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
 90482,BCE-003,AM,2026-07-07,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,02",12,false,false
 90485,BCE-004,AM,2026-07-07,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
@@ -91923,6 +92215,32 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95626,BG2-039,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,1.0,false,true,false,"","BIO1,CP2,BG2-039,22",2,true,false
 95620,PL1-009,PM,2026-07-27,TIMER,2,0.00,0.0,0.0,0.0,false,true,false,camaron en muda . sobrante regular en el suelo se apagan equipos -- segundo rastrillo barrio todo se procede a encender ,"BIO3,CP2,PL1-009,22",9,false,false
 95817,BA1-001,PM,2026-07-27,SONICO,0,0.00,0.0,2.0,0.0,false,true,false,presencia de heces gris y cafe ,"BIO2,CP2,BA1-001,22",4,true,false
+96313,BA1-029,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"pocas heces cafe, presencia de heces gris","BIO2,CP2,BA1-029,21",4,true,false
+96315,BSS-033,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-033,21",5,true,false
+96319,BA1-025,PM,2026-07-29,VOLEO,2,0.00,0.0,1.0,0.0,false,false,false,balanceado fresco en suelo,"BIO2,CP2,BA1-025,23",4,false,false
+96320,BSS-043,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-043,22",5,true,false
+96321,BSS-023,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Heces Amarillas,"BIO2,CP3,BSS-023,22",5,true,false
+96324,BSS-020,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Pocas heces amarillas,"BIO2,CP3,BSS-020,23",5,true,false
+96325,BSS-002,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-002,21",5,true,false
+96328,BSS-019,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-019,22",5,false,false
+96329,BSS-003,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-003,21",5,true,false
+96332,BSS-007,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP3,BSS-007,21",5,true,false
+96335,BCE-001,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-001,02",12,false,false
+96337,BCE-002,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
+96339,BA1-022,AM,2026-07-29,SONICO,0,200.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-022,22",4,false,false
+96343,BCE-101,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP6,BCE-101,06",12,false,false
+96346,BCE-102,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-102,06",12,false,false
+96347,BA1-029,AM,2026-07-29,SONICO,0,300.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-027,22",4,false,false
+96349,BCE-005,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-005,03",12,false,false
+96352,BCE-007,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-007,03",12,false,false
+96353,BCE-008,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+96354,BCE-008,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+96356,BCE-009,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,03",12,false,false
+96358,BCE-011,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,false,false
+96361,BCE-012,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-012,04",12,false,false
+96367,BCE-014,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
+96369,BCE-015,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
+96516,BSP-007,PM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,poco sobrante de balanceado fresco,"BIO2,CP5,BSP-007,18",7,false,false
 90616,PL1-028,PM,2026-07-07,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Poco balanceado, fresco en 2 tolvas de entrada. Pocas heces cafes ","BIO3,CP2,PL1-028,21",9,true,true
 90619,BSF-019,PM,2026-07-06,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-019,21",3,false,false
 90620,BSF-030,PM,2026-07-06,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-030,21",3,false,false
@@ -92029,6 +92347,20 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95637,BG2-042,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-042,22",2,false,false
 95638,PL1-047,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,camaron en muda. heces amarillas ,"BIO3,CP2,PL1-047,10",9,true,false
 95818,BA1-002,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-002,22",4,true,false
+96314,BA1-029,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"pocas heces cafe, presencia de heces gris","BIO2,CP2,BA1-029,21",4,true,false
+96318,BSS-041,PM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-041,22",5,false,false
+96322,BSS-044,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-044,22",5,true,false
+96247,BA1-003,AM,2026-07-29,SONICO,0,150.00,1.0,0.0,0.0,false,true,false,"poca muda, pocas heces cafe, presencia de heces amarilla","BIO2,CP2,BA1-003,22",4,false,false
+96330,BSS-005,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-005,20",5,true,false
+96333,BA1-020,AM,2026-07-29,SONICO,0,175.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-020,22",4,false,false
+96340,BA1-023,AM,2026-07-29,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-023,22",4,false,false
+96350,BSS-018,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Pocas heces amarillas ,"BIO2,CP3,BSS-018,23",5,true,false
+96359,BCE-010,AM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+96362,BCE-012,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-012,04",12,false,false
+96365,BCE-013,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
+96371,BSS-014,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Heces amarillas,"BIO2,CP3,BSS-014,21",5,true,false
+96373,BCE-016,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-016,03",12,false,false
+96374,BCE-017,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,false,false
 90689,BA1-012,PM,2026-07-07,SONICO,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-012,22",4,true,false
 90690,BA1-028,PM,2026-07-07,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-028,22",4,true,false
 90691,BA1-029,PM,2026-07-07,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-029,21",4,false,false
@@ -92233,6 +92565,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95643,PL1-020,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-020,26",9,false,false
 95639,PL1-006,PM,2026-07-27,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,"ful sobrante de balanceado en el suelo se procede apagar equipos , segundo rastrillo se procede a encender rastrillo, barrio todo ","BIO3,CP2,PL1-006,22",9,false,false
 95819,BA1-003,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-003,22",4,true,false
+96316,BSS-038,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-038,21",5,true,false
+96317,BSS-040,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP3,BSS-040,23",5,true,false
+96517,BSP-008,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas,"BIO2,CP5,BSP-008,10",7,true,false
 90813,BA1-023,AM,2026-07-08,TIMER,0,150.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP2,BA1-023,22",4,true,false
 90874,BA1-024,AM,2026-07-08,SONICO,0,200.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-024,22",4,false,false
 90875,BA1-025,AM,2026-07-08,SONICO,0,300.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-025,22",4,false,false
@@ -92384,6 +92719,34 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95644,PL1-052,PM,2026-07-27,TIMER,2,0.00,0.0,0.0,0.0,false,true,false,"camaron en muda, presencias de heces amarillas . sobrante regular en el suelo se procede apagar equipos ","BIO3,CP2,PL1-052,03",9,true,false
 95645,PL1-002,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-002,22",9,false,false
 95820,BA1-013,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe ,"BIO2,CP2,BA1-013,22",4,true,false
+96323,BSS-021,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Heces Amarillas,"BIO2,CP3,BSS-021,23",5,true,false
+96327,BSS-016,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Pocas heces cafes,"BIO2,CP3,BSS-016,21",5,true,false
+96331,BSS-006,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-006,21",5,true,false
+96334,BCE-001,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-001,02",12,false,false
+96336,BA1-021,AM,2026-07-29,SONICO,0,150.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-021,22",4,false,false
+96338,BCE-002,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
+96341,BSS-008,PM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,true,false,false,"","BIO2,CP3,BSS-008,22",5,false,false
+96342,BCE-101,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP6,BCE-101,06",12,false,false
+96344,BA1-026,AM,2026-07-29,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-026,22",4,false,false
+96345,BCE-102,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-102,06",12,false,false
+96348,BCE-005,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-005,03",12,false,false
+96351,BCE-007,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-007,03",12,false,false
+96355,BCE-009,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,03",12,false,false
+96357,BCE-011,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,false,false
+96360,BCE-010,AM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+96363,BSS-017,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Pocas heces amarillas,"BIO2,CP3,BSS-017,21",5,true,false
+96364,BCE-013,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
+96366,BA1-040,AM,2026-07-29,SONICO,0,150.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-040,24",4,false,false
+96368,BCE-014,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
+96370,BCE-015,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
+96372,BCE-016,AM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-016,03",12,false,false
+96375,BCE-017,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,false,false
+96326,BSS-013,PM,2026-07-29,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,Pocas heces negras,"BIO2,CP3,BSS-015,21",5,true,false
+96376,BSS-009,PM,2026-07-29,VOLEO,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-009,22",5,false,false
+96518,BSP-009,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,heces amarillas,"BIO2,CP5,BSP-009,10",7,true,false
+96519,BSP-010,PM,2026-07-29,SONICO,0,1.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-010,10",7,false,false
+96520,BSP-011,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-011,10",7,false,false
+96521,BSP-012,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-012,18",7,false,false
 90999,BCE-011,AM,2026-07-09,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,false,false
 91001,BCE-007,AM,2026-07-09,VOLEO,0,0.00,0.0,4.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
 91002,BCE-006,AM,2026-07-09,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO2,CP6,BCE-006,02",12,false,false
@@ -92477,6 +92840,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95646,PL1-001,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-001,22",9,false,false
 95821,BA1-007,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces gris y poca heces cafe ,"BIO2,CP2,BA1-007,23",4,true,false
 95822,BA1-006,PM,2026-07-27,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-006,22",4,true,false
+96377,BSS-012,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-012,21",5,false,false
+96378,BSS-010,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-010,22",5,false,false
+96522,BSP-013,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas,"BIO2,CP5,BSP-013,19",7,true,false
 91075,BCE-015,PM,2026-07-09,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
 91077,BCE-013,PM,2026-07-09,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
 91079,BCE-104,PM,2026-07-09,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-104,04",12,false,false
@@ -92620,6 +92986,8 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95349,BA1-027,AM,2026-07-26,SONICO,0,250.00,3.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-027,22",4,true,false
 95647,PL1-042,PM,2026-07-27,SONICO,0,0.00,2.0,0.0,0.0,false,true,false,"camaron en muda , presencias de haces amarillas ","BIO3,CP2,PL1-042,10",9,true,false
 95823,BA1-015,PM,2026-07-27,SONICO,0,0.00,0.0,3.0,0.0,false,false,false,poca heces gris presencia de heces cafe ,"BIO2,CP2,BA1-015,22",4,true,false
+96379,BSS-011,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-011,21",5,false,false
+96523,BSP-014,PM,2026-07-29,TIMER,2,0.00,0.0,0.0,0.0,false,false,false,se apagó unas horas por sobrante de en suelo,"BIO2,CP5,BSP-014,18",7,false,false
 91206,BCE-002,AM,2026-07-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
 91208,BCE-003,AM,2026-07-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,02",12,false,false
 91210,BCE-004,AM,2026-07-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
@@ -92664,6 +93032,10 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95350,BA1-023,AM,2026-07-26,SONICO,0,75.00,0.0,1.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-023,22",4,true,false
 95648,PL1-053,PM,2026-07-27,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,heces amarillas. ful sobrante de balancceado en el suelo se procede apagar quipos ,"BIO3,CP2,PL1-053,03",9,true,false
 95824,BA1-014,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,poca heces cafe,"BIO2,CP2,BA1-014,22",4,true,false
+96380,BA1-013,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-013,22",4,true,false
+96524,BSP-015,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas,"BIO2,CP5,BSP-015,18",7,true,false
+96525,BSP-101,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-101,18",7,false,false
+96526,BSP-102,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-102,09",7,false,false
 91212,BCE-016,AM,2026-07-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-016,03",12,false,false
 91214,BCE-017,AM,2026-07-10,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,false,false
 91216,BG2-043,PM,2026-07-09,TIMER,0,0.00,1.0,0.0,0.0,false,false,false,bastante balanceado en suelo,"BIO1,CP2,BG2-043,07",2,false,true
@@ -92923,8 +93295,13 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 94776,PL1-043,PM,2026-07-24,SONICO,0,0.00,2.0,1.0,0.0,false,true,true,"se aplica peroxido, camaron en muda. heces amarillas y cafe ","BIO3,CP2,PL1-043,10",9,true,false
 95046,BA1-034,PM,2026-07-25,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,presencia de heces amarillas ,"BIO2,CP2,BA1-034,22",4,true,false
 95351,BA1-028,AM,2026-07-26,SONICO,0,100.00,0.0,1.0,0.0,false,false,false,presencia de heces café y amarillas ,"BIO2,CP2,BA1-028,22",4,true,false
-95649,PL1-054,PM,2026-07-27,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,"heces amarillas . ful sobrante de balanceado en el suelo , se procede apagar equipos ","BIO3,CP2,PL1-054,3",9,true,false
 95825,BA1-005,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe ,"BIO2,CP2,BA1-005,23",4,true,false
+96381,BA1-012,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-012,22",4,true,false
+96527,BSP-103,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-103,24",7,false,false
+96528,BSP-104,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-104,17",7,false,false
+96529,BSP-106,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-106,42",7,false,false
+96530,BSP-107,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-107,21",7,false,false
+95649,PL1-054,PM,2026-07-27,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,"heces amarillas . ful sobrante de balanceado en el suelo , se procede apagar equipos ","BIO3,CP2,PL1-054,03",9,true,false
 91460,BCE-007,AM,2026-07-11,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
 93709,BA1-035,PM,2026-07-21,SONICO,1,0.00,0.0,0.0,0.0,false,false,false,"1er dia en tolvas, pepas de balanceado fresco en suelo","BIO2,CP2,BA1-035,22",4,true,false
 91465,BCE-002,AM,2026-07-11,SONICO,0,0.00,1.0,1.0,0.0,false,false,false,"","BIO2,CP6,BCE-002,02",12,false,false
@@ -93068,6 +93445,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95650,PL1-019,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces amarillas ,"BIO3,CP2,PL1-019,19",9,true,false
 95651,PL1-018,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,ful heces amarillas y cafes ,"BIO3,CP2,PL1-018,19",9,true,false
 95826,BA1-012,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces gris poca heces amarillas ,"BIO2,CP2,BA1-012,22",4,true,false
+96382,BA1-010,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-010,21",4,true,false
+96532,BA1-039,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"pocas heces cafe, presencia de heces gris","BIO2,CP2,BA1-039,21",4,false,false
+96531,BA1-033,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"pocas heces cafe, presencia de heces amarillas","BIO2,CP2,BA1-033,22",4,true,false
 91591,BSS-012,AM,2026-07-11,TIMER,0,0.00,0.0,1.0,0.0,false,true,false,HECES GRIS,"BIO2,CP3,BSS-012,21",5,true,false
 84806,BA1-018,AM,2026-06-10,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-018,22",4,false,false
 73649,BA1-019,AM,2026-04-28,SONICO,0,100.00,1.0,2.0,1.0,false,false,false,"","BIO2,CP2,BA1-019,20",4,false,false
@@ -93429,6 +93809,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95686,BCE-016,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,full heces cafe,"BIO2,CP6,BCE-016,03",12,true,false
 95827,BSF-019,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-019,21",3,false,false
 95829,BSF-001,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-001,21",3,false,false
+96383,BA1-004,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-004,32",4,false,false
+96386,BA1-103,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-103,61",4,false,false
+96533,BA1-034,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"pocas heces gris, presencia de heces amarillas","BIO2,CP2,BA1-034,22",4,true,false
 91779,BSS-034,AM,2026-07-12,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,AMARILLAS - POCAS GRIS,"BIO2,CP3,BSS-034,21",5,true,false
 91780,BSS-014,AM,2026-07-12,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,CAFES Y AMARILLAS,"BIO2,CP3,BSS-014,21",5,true,false
 91781,BSS-032,AM,2026-07-12,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-032,20",5,true,false
@@ -93794,6 +94177,11 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95690,PL1-034,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces amarillas y cafes ,"BIO3,CP2,PL1-034,22",9,true,false
 95691,PL1-016,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful  heces amarillas ,"BIO3,CP2,PL1-016,19",9,true,false
 95828,BSF-002,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-002,23",3,false,false
+96384,BA1-040,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-040,24",4,false,false
+96387,BA1-102,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,2.0,false,false,false,"","BIO2,CP2,BA1-102,57",4,false,false
+96534,BA1-037,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-037,22",4,false,false
+96535,BA1-038,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-038,22",4,true,false
+96536,BA1-035,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"pocas heces gris, presencia de heces amarillas","BIO2,CP2,BA1-035,22",4,true,false
 92053,BG1-010,PM,2026-07-12,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-010,21",1,false,false
 92054,BG2-041,PM,2026-07-12,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,se pauso 2 horas,"BIO1,CP2,BG2-041,22",2,false,true
 92055,BG2-042,PM,2026-07-12,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,"bastante balanceado en suelo, bastante suelo dañado. pausada  2 horas","BIO1,CP2,BG2-042,22",2,false,true
@@ -94261,6 +94649,13 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95693,PL1-106,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-106,38",9,false,false
 95830,BSF-008,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-008,21",3,false,false
 95832,BSF-004,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-004,22",3,false,false
+96385,BA1-011,PM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-011,36",4,false,false
+96537,BG1-010,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-010,21",1,false,false
+96538,BG1-011,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-011,22",1,false,false
+96539,BG1-012,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-012,23",1,false,false
+96540,BG1-015,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-015,23",1,false,false
+96541,BG1-014,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-014,22",1,false,false
+96542,BG1-017,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-017,22",1,false,false
 92488,BSS-003,AM,2026-07-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,CAFES,"BIO2,CP3,BSS-003,21",5,true,false
 92489,BSS-002,AM,2026-07-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,CAFES,"BIO2,CP3,BSS-002,21",5,true,false
 92494,BSS-022,PM,2026-07-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,CAFES,"BIO2,CP3,BSS-022,22",5,true,false
@@ -94353,6 +94748,17 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95694,PL1-005,PM,2026-07-27,TIMER,3,0.00,1.0,1.0,0.0,false,true,false,camaron en muda y heces amarillas . ful sobrante en el suelo se procede apagar equipos ,"BIO3,CP2,PL1-005,22",9,true,false
 95831,BSF-005,AM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-005,32",3,false,false
 95833,BSF-003,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-003,22",3,false,false
+96388,BCE-015,PM,2026-07-29,SONICO,0,0.00,1.0,1.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-015,02",12,true,false
+96389,BCE-014,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
+96392,BCE-012,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-012,04",12,true,false
+96391,BCE-017,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,full heces cafe,"BIO2,CP6,BCE-013,02",12,true,false
+96543,BG1-016,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-016,22",1,false,false
+96544,BG1-002,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-002,24",1,false,false
+96545,BG1-003,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-003,22",1,false,false
+96546,BG1-006,AM,2026-07-29,SONICO,0,0.00,0.0,15.0,0.0,false,false,false,"","BIO1,CP1,BG1-006,24",1,false,false
+96547,BG1-007,AM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-007,23",1,false,false
+96548,BG1-008,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-008,23",1,false,false
+96549,BG1-009,AM,2026-07-29,TIMER,0,0.00,0.0,2.0,0.0,false,false,false,"","BIO1,CP1,BG1-009,24",1,false,false
 93757,BSP-001,PM,2026-07-21,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-001,19",7,true,false
 92560,BCE-004,AM,2026-07-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
 93758,BSP-002,PM,2026-07-21,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-002,19",7,true,false
@@ -94387,6 +94793,11 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95695,PL1-028,PM,2026-07-27,VOLEO,0,0.00,1.0,4.0,2.0,false,false,false,"","BIO3,CP2,PL1-028,22",9,false,false
 95834,BSF-013,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-013,22",3,false,false
 95836,BSF-010,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-010,21",3,false,false
+96390,BCE-014,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
+96393,BCE-012,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-012,04",12,true,false
+96550,BG1-010,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-010,21",1,false,false
+96551,BG1-011,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-011,22",1,false,false
+96552,BG1-012,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-012,23",1,false,false
 92561,BCE-004,AM,2026-07-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,02",12,false,false
 92562,BCE-001,AM,2026-07-14,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-001,02",12,false,false
 92565,BCE-010,PM,2026-07-14,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
@@ -94555,6 +94966,10 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95699,PL2-001,AM,2026-07-27,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO3,CP3,PL2-001,22",10,false,false
 95700,PL2-002,AM,2026-07-27,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP3,PL2-002,22",10,false,false
 95835,BSF-011,AM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-011,22",3,false,false
+96394,BA1-030,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-030,22",4,true,false
+96395,BA1-032,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"poca muda, presencia de heces cafe","BIO2,CP2,BA1-032,21",4,true,false
+96553,BG1-015,PM,2026-07-28,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-015,23",1,false,false
+96554,BG1-015,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-015,23",1,false,false
 92697,BCE-101,AM,2026-07-15,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-101,06",12,false,false
 92698,BCE-102,AM,2026-07-15,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-102,06",12,false,false
 92700,BCE-003,AM,2026-07-15,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-003,02",12,true,false
@@ -94651,6 +95066,22 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95864,BSF-004,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-004,22",3,false,false
 95869,BSF-011,PM,2026-07-27,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-011,22",3,true,false
 95874,BSF-105,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-105,51",3,false,false
+96396,PL1-106,AM,2026-07-29,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-106,38",9,false,false
+96555,BG2-024,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-024,21",2,true,false
+96559,BG2-030,PM,2026-07-29,SONICO,0,0.00,0.0,3.0,0.0,false,false,false,"","BIO1,CP2,BG2-030,22",2,false,false
+96560,BG2-029,PM,2026-07-29,TIMER,0,0.00,3.0,2.0,1.0,false,false,false,"","BIO1,CP2,BG2-029,22",2,false,false
+96562,BG2-033,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-033,23",2,false,false
+96563,BG2-034,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-034,24",2,true,false
+96565,BG2-032,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-032,23",2,true,false
+96578,BG1-014,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-014,22",1,false,false
+96579,BG1-017,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-017,22",1,false,false
+96583,BA1-006,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-006,22",4,true,false
+96584,BG1-008,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-008,23",1,false,false
+96587,BA1-005,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-005,23",4,true,false
+96591,BA1-008,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-008,21",4,true,false
+96592,BA1-003,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-003,22",4,true,false
+96593,BA1-014,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-014,22",4,true,false
+96594,BA1-001,PM,2026-07-29,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"presencia de muda, presencia de heces cafe","BIO2,CP2,BA1-001,22",4,true,false
 92774,BG2-041,PM,2026-07-15,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,"","BIO1,CP2,BG2-041,22",2,false,false
 92780,BG2-028,PM,2026-07-15,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-028,22",2,false,false
 92781,BG2-050,PM,2026-07-15,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-050,06",2,false,false
@@ -94678,6 +95109,31 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95867,BSF-010,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-010,21",3,false,false
 95870,BSF-006,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-006,21",3,false,false
 95872,BSF-018,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-018,21",3,false,false
+96397,PL1-030,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,camaron en muda ,"BIO3,CP2,PL1-030,23",9,false,false
+96400,PL1-033,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,camaron en muda ,"BIO3,CP2,PL1-033,22",9,false,false
+96556,BG2-026,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-026,22",2,false,false
+96557,BG2-027,PM,2026-07-29,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO1,CP2,BG2-027,22",2,false,false
+96558,BG2-028,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-028,22",2,false,false
+96561,BG2-031,PM,2026-07-29,TIMER,0,0.00,0.0,1.0,1.0,false,false,false,"","BIO1,CP2,BG2-031,23",2,false,false
+96564,BG2-036,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-036,22",2,false,false
+96566,BG2-038,PM,2026-07-29,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-038,23",2,false,false
+96567,BG2-039,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-039,22",2,true,false
+96568,BG2-041,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-041,22",2,false,false
+96569,BG2-042,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-042,22",2,true,false
+96570,BG2-043,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-043,07",2,false,false
+96571,BG2-044,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-044,07",2,false,false
+96572,BG2-045,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-045,06",2,true,false
+96573,BG2-046,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-046,06",2,false,false
+96574,BG2-047,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO1,CP2,BG2-047,06",2,false,false
+96575,BG2-048,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-048,06",2,false,false
+96576,BG2-049,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-049,06",2,true,false
+96577,BG2-050,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-050,06",2,false,false
+96580,BG1-002,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-002,24",1,false,false
+96581,BG1-006,PM,2026-07-29,TIMER,0,0.00,0.0,7.0,0.0,false,false,false,"","BIO1,CP1,BG1-006,24",1,false,false
+96582,BG1-007,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-007,23",1,false,false
+96585,BG1-009,PM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-009,24",1,false,false
+96586,BA1-015,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,2.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-015,22",4,true,false
+96588,BA1-007,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-007,23",4,true,false
 92777,BG2-043,PM,2026-07-15,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,"","BIO1,CP2,BG2-043,07",2,false,true
 92779,BG2-047,PM,2026-07-15,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-047,06",2,false,false
 92783,BG2-023,PM,2026-07-15,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-023,21",2,true,false
@@ -94747,6 +95203,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 94045,PL1-033,PM,2026-07-22,TIMER,1,0.00,3.0,5.0,0.0,false,true,false,"Buena actividad, presencia de muda fresca. Heces cafés y pocas heces amarillas","BIO3,CP2,PL1-033,22",9,true,false
 94184,BA1-017,AM,2026-07-23,SONICO,0,375.00,0.0,0.0,0.0,false,false,false,poca heces cafe presencia de heces amarillas ,"BIO2,CP2,BA1-017,22",4,true,false
 94185,BA1-021,AM,2026-07-23,SONICO,0,200.00,0.0,0.0,0.0,false,false,false,poca heces cafe ,"BIO2,CP2,BA1-021,22",4,true,false
+95286,PL1-054,AM,2026-07-26,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-054,03",9,false,false
 94186,BA1-034,AM,2026-07-23,TIMER,3,225.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-034,22",4,false,false
 94372,BSP-007,PM,2026-07-23,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-007,18",7,false,false
 94533,BG2-047,PM,2026-07-23,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-047,06",2,false,false
@@ -94791,6 +95248,7 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95863,BSF-003,PM,2026-07-27,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP1,BSF-003,22",3,false,false
 95865,BSF-017,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-017,21",3,false,false
 95873,BSF-101,PM,2026-07-27,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-101,54",3,false,false
+96398,PL1-052,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,camaron en muda ,"BIO3,CP2,PL1-052,03",9,false,false
 92846,BSS-018,AM,2026-07-15,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,"","BIO2,CP3,BSS-018,23",5,false,false
 92847,BSS-017,AM,2026-07-15,TIMER,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP3,BSS-017,21",5,false,false
 92848,BSS-022,AM,2026-07-15,SONICO,0,0.00,0.0,2.0,0.0,false,true,false,CAFES,"BIO2,CP3,BSS-022,22",5,true,false
@@ -95076,6 +95534,9 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 95868,BSF-007,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-007,20",3,false,false
 95871,BSF-008,PM,2026-07-27,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP1,BSF-008,21",3,false,false
 94883,BSS-001,PM,2026-07-24,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP3,BSS-001,22",5,true,false
+96399,PL1-053,AM,2026-07-29,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO3,CP2,PL1-053,03",9,false,false
+96589,BA1-002,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"poca muda, porcas heces cafe","BIO2,CP2,BA1-002,22",4,true,false
+96590,BA1-009,PM,2026-07-29,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-009,21",4,true,false
 93093,BG2-039,PM,2026-07-16,SONICO,0,0.00,4.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-039,22",2,false,false
 93094,BG2-040,PM,2026-07-16,TIMER,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-040,23",2,false,false
 93095,BG2-045,PM,2026-07-16,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-045,06",2,false,false
