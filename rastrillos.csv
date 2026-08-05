@@ -97432,3 +97432,280 @@ id,codigo_piscina,horario,fecha,estado,tipo_sobrante,sobrante_kilo,m_viejo,m_roj
 98495,BG2-038,PM,2026-08-03,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-038,23",2,false,false
 98491,BG2-042,PM,2026-08-03,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-042,22",2,false,true
 98494,BG2-039,PM,2026-08-03,SONICO,0,0.00,0.0,0.0,0.0,true,false,false,"","BIO1,CP2,BG2-039,22",2,false,true
+98502,BA1-007,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe / amarillas,"BIO2,CP2,BA1-007,23",4,true,false
+98512,BA1-022,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-022,22",4,true,false
+98513,BA1-023,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-023,22",4,true,false
+98496,BA1-024,AM,2026-08-04,TIMER,0,125.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-024,23",4,true,false
+98530,PL2-001,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"Se observa actividad, heces cafés. ","BIO3,CP3,PL2-001,22",10,true,false
+98531,PL2-007,AM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"Se observa actividad, heces cafes. ","BIO3,CP3,PL2-007,23",10,true,false
+98524,BA1-040,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-040,24",4,false,false
+98525,BA1-011,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,1% balanceado en suelo,"BIO2,CP2,BA1-011,36",4,false,false
+98526,BA1-004,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-004,32",4,false,false
+98527,BA1-103,AM,2026-08-04,VOLEO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP2,BA1-103,61",4,false,false
+98498,BA1-002,AM,2026-08-04,SONICO,0,150.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-002,22",4,false,false
+98499,BA1-003,AM,2026-08-04,SONICO,0,75.00,0.0,1.0,0.0,false,true,false,presencia de muda,"BIO2,CP2,BA1-003,22",4,false,false
+98500,BA1-005,AM,2026-08-04,SONICO,0,125.00,0.0,1.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-005,23",4,true,false
+98501,BA1-006,AM,2026-08-04,SONICO,0,100.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-006,22",4,true,false
+98503,BA1-012,AM,2026-08-04,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-012,22",4,true,false
+98504,BA1-013,AM,2026-08-04,SONICO,0,50.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-013,22",4,true,false
+98505,BA1-014,AM,2026-08-04,SONICO,0,75.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-014,22",4,true,false
+98506,BA1-015,AM,2026-08-04,SONICO,0,150.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP2,BA1-015,22",4,false,false
+98497,BA1-025,AM,2026-08-04,TIMER,0,100.00,0.0,1.0,0.0,false,false,false,pocas heces gris,"BIO2,CP2,BA1-025,23",4,true,false
+98509,BA1-017,AM,2026-08-04,SONICO,0,275.00,0.0,0.0,0.0,false,false,false,pocas heces cafe / presencia de heces amarillas,"BIO2,CP2,BA1-017,22",4,true,false
+98508,BA1-018,AM,2026-08-04,SONICO,0,200.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-018,22",4,true,false
+98511,BA1-020,AM,2026-08-04,SONICO,0,75.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-020,22",4,true,false
+98507,BA1-021,AM,2026-08-04,SONICO,0,175.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-021,22",4,true,false
+98532,PL2-002,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Se observa actividad,"BIO3,CP3,PL2-002,22",10,false,false
+98533,PL2-010,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Se observa actividad,"BIO3,CP3,PL2-010,22",10,false,false
+98514,BA1-026,AM,2026-08-04,SONICO,0,325.00,0.0,1.0,0.0,false,true,false,presencia de heces cafe / poca muda,"BIO2,CP2,BA1-026,22",4,true,false
+98515,BA1-027,AM,2026-08-04,SONICO,0,175.00,1.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-027,22",4,true,false
+98516,BA1-029,AM,2026-08-04,SONICO,0,200.00,0.0,1.0,0.0,false,true,false,poca muda / pocas heces cafe,"BIO2,CP2,BA1-029,21",4,true,false
+98517,BA1-030,AM,2026-08-04,SONICO,0,425.00,0.0,0.0,0.0,false,false,false,presencia de heces gris,"BIO2,CP2,BA1-030,22",4,true,false
+98523,BA1-032,AM,2026-08-04,SONICO,0,325.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-032,21",4,true,false
+98518,BA1-033,AM,2026-08-04,SONICO,0,325.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-033,22",4,true,false
+98519,BA1-034,AM,2026-08-04,SONICO,0,500.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-034,22",4,true,false
+98520,BA1-035,AM,2026-08-04,SONICO,0,350.00,0.0,0.0,0.0,false,true,false,presencia de heces cafe / presencia de muda,"BIO2,CP2,BA1-035,22",4,true,false
+98510,BA1-037,AM,2026-08-04,SONICO,0,25.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-037,22",4,true,false
+98522,BA1-038,AM,2026-08-04,SONICO,0,125.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-038,22",4,true,false
+98521,BA1-039,AM,2026-08-04,SONICO,0,25.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-039,21",4,true,false
+98528,PL2-011,AM,2026-08-04,SONICO,0,0.00,1.0,1.0,0.0,false,true,false,"Pocas muda, buena actividad. Se va a ralear ","BIO3,CP3,PL2-011,22",10,true,false
+98529,PL2-005,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Se observa actividad, heces cafes. ","BIO3,CP3,PL2-005,22",10,true,false
+98535,PL1-003,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca, pocas heces cafes, buena actividad","BIO3,CP2,PL1-003,22",9,true,false
+98536,PL1-005,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca, pocas heces cafes. full actividad","BIO3,CP2,PL1-005,22",9,true,false
+98537,PL1-050,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"poca muda, heces amarillas poca. ","BIO3,CP2,PL1-050,03",9,true,false
+98538,PL1-052,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca, pocas heces amarillas ","BIO3,CP2,PL1-052,03",9,true,false
+98539,PL1-054,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"Poca muda, poca heces amarillas. ","BIO3,CP2,PL1-054,03",9,true,false
+98540,PL1-009,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca si, pocas heces cafe, buena actividad","BIO3,CP2,PL1-009,22",9,true,false
+98541,PL1-006,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca, pocas heces cafes, buena actividad","BIO3,CP2,PL1-006,22",9,true,false
+98542,PL1-053,AM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"Poca muda fresca, pocas heces amarillas. ","BIO3,CP2,PL1-053,03",9,true,false
+98543,PL1-004,AM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"Pocas heces cafes, muda fresca, buena actividad","BIO3,CP2,PL1-004,22",9,true,false
+98544,PL1-020,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-020,26",9,false,false
+98545,PL1-021,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-021,35",9,false,false
+98546,PL1-012,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-012,36",9,false,false
+98547,PL1-027,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-027,22",9,false,false
+98548,PL1-103,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-103,51",9,false,false
+98549,PL1-102,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,1.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-102,61",9,false,false
+98550,PL1-028,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"Buena actividad, pocas heces negras","BIO3,CP2,PL1-028,22",9,false,false
+98551,PL1-030,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Poca muda, pocas heces. buena actividad","BIO3,CP2,PL1-030,23",9,true,false
+98552,PL1-031,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-031,23",9,false,false
+98553,PL1-035,AM,2026-08-04,VOLEO,0,0.00,1.0,2.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-035,23",9,false,false
+98554,PL1-033,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,Buena actividad,"BIO3,CP2,PL1-033,22",9,false,false
+98555,PL1-105,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-105,62",9,false,false
+98556,PL1-016,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Full heces cafes y amarillas. Buena actividad,"BIO3,CP2,PL1-016,19",9,true,false
+98557,PL1-051,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,Muda poca fresca. Buena actividad,"BIO3,CP2,PL1-051,03",9,true,false
+98558,PL1-017,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Buena actividad, heces cafes y amarillas ","BIO3,CP2,PL1-017,19",9,true,false
+98559,PL1-020,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-020,26",9,false,false
+98560,PL1-015,PM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,Heces cafes muchas. Buena actividad,"BIO3,CP2,PL1-015,20",9,true,false
+98561,PL1-014,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-014,22",9,true,false
+98562,PL1-013,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"Heces cafes amarillas, buena actividad","BIO3,CP2,PL1-013,20",9,false,false
+98563,PL1-050,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"Poca muda fresca, heces amarillas pocas, actividad regular ","BIO3,CP2,PL1-050,03",9,true,false
+98564,PL1-052,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Actividad regular, muda fresca, pocas heces cafes. ","BIO3,CP2,PL1-052,03",9,false,false
+98565,PL1-021,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-021,35",9,false,false
+98566,PL1-022,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Pocas heces negras y pocas cafes. Buena actividad,"BIO3,CP2,PL1-022,23",9,false,false
+98567,PL1-024,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Heces amarillas y cafes. Buena actividad,"BIO3,CP2,PL1-024,23",9,true,false
+98568,PL1-006,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Buena actividad, heces cafés. ","BIO3,CP2,PL1-006,22",9,true,false
+98569,PL1-023,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Poca heces cafes, buena actividad","BIO3,CP2,PL1-023,28",9,true,false
+98570,PL1-102,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-102,61",9,false,false
+98571,PL1-009,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Presencia de muda fresca, buena actividad","BIO3,CP2,PL1-009,22",9,false,false
+98572,PL1-025,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-025,22",9,false,false
+98573,PL1-103,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Actividad buena. ,"BIO3,CP2,PL1-103,51",9,false,false
+98574,PL1-054,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,Heces amarillas full. pocas muda. Mas actividad que ayer ,"BIO3,CP2,PL1-054,03",9,true,false
+98575,PL1-053,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca poca, muchas heces amarillas. Mas actividad que ayer ","BIO3,CP2,PL1-053,03",9,true,false
+98576,PL1-026,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca poca, heces amarillas y cafes poca actividad","BIO3,CP2,PL1-026,22",9,true,false
+98577,PL1-010,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Muchas heces amarillas, buena actividad","BIO3,CP2,PL1-010,22",9,true,false
+98578,PL1-005,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Heces amarillas y cafes muchas, buena actividad","BIO3,CP2,PL1-005,22",9,true,false
+98579,PL1-027,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"Muda fresca, pocas heces cafes, buena actividad","BIO3,CP2,PL1-027,22",9,true,false
+98580,PL1-004,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,Heces full actividad,"BIO3,CP2,PL1-004,22",9,true,false
+98534,PL1-003,PM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"Muda fresca, pocas heces cafes, buena actividad. ","BIO3,CP2,PL1-003,22",9,true,false
+98581,PL1-001,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Heces amarillas muchas, full actividad","BIO3,CP2,PL1-001,22",9,true,false
+98582,PL1-002,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad. ,"BIO3,CP2,PL1-002,22",9,true,false
+98583,PL1-031,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-031,23",9,true,false
+98584,PL1-035,PM,2026-08-04,VOLEO,0,0.00,0.0,2.0,0.0,false,false,false,Buena actividad,"BIO3,CP2,PL1-035,23",9,false,false
+98585,PL1-036,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"Pocas heces cafes, buena actividad","BIO3,CP2,PL1-036,23",9,true,false
+98586,PL1-033,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,Heces amarillas full,"BIO3,CP2,PL1-033,22",9,true,false
+98587,PL1-030,PM,2026-08-04,SONICO,0,0.00,0.0,4.0,0.0,false,false,false,"Buena actividad, hecs cafes pocas ","BIO3,CP2,PL1-030,23",9,true,false
+98588,PL1-028,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,1.0,false,false,false,"Full heces, buena actividad","BIO3,CP2,PL1-028,22",9,false,false
+98589,PL1-045,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Poca muda, heces cafes full.","BIO3,CP2,PL1-045,13",9,true,false
+98590,PL1-040,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Poca muda,  muchas heces full","BIO3,CP2,PL1-040,11",9,true,false
+98591,PL1-044,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Poca muda, heces amarillas full ","BIO3,CP2,PL1-044,10",9,true,false
+98592,PL1-041,PM,2026-08-04,SONICO,0,0.00,2.0,2.0,0.0,false,true,false,"Muda fresca poca, heces amarillas full ","BIO3,CP2,PL1-041,11",9,true,false
+98593,PL1-042,PM,2026-08-04,SONICO,0,0.00,3.0,2.0,0.0,false,true,false,"Pocas muda, heces amarillas full. ","BIO3,CP2,PL1-042,10",9,true,false
+98594,PL1-043,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Poca muda, heces amarillas full ","BIO3,CP2,PL1-043,10",9,true,false
+98595,PL1-047,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Poca muda, heces cafes full ","BIO3,CP2,PL1-047,10",9,true,false
+98596,PL1-046,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"Heces cafes full, poca muda ","BIO3,CP2,PL1-046,10",9,true,false
+98597,PL1-029,PM,2026-08-04,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,Buena actividad.  full heces cafes pocas ,"BIO3,CP2,PL1-029,22",9,true,false
+98598,PL1-034,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Heces amarillas full. buena actividad,"BIO3,CP2,PL1-034,22",9,true,false
+98599,BA1-002,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-002,22",4,true,false
+98600,BA1-020,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-020,22",4,true,false
+98601,BA1-005,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-005,23",4,true,false
+98602,BA1-006,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-006,22",4,true,false
+98603,BA1-003,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-003,22",4,true,false
+98604,BA1-007,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,presencia de muda / nivel bajo para aplicar producto por mejillon.,"BIO2,CP2,BA1-007,23",4,false,false
+98605,BA1-012,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-012,22",4,true,false
+98606,BA1-013,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-013,22",4,true,false
+98607,BA1-014,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-014,22",4,true,false
+98608,BA1-015,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-015,22",4,true,false
+98609,BA1-017,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-017,22",4,true,false
+98610,BA1-018,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-018,22",4,true,false
+98611,BA1-021,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-021,22",4,true,false
+98612,BA1-022,PM,2026-08-04,SONICO,0,0.00,0.0,3.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-022,22",4,true,false
+98613,BA1-023,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-023,22",4,true,false
+98614,BA1-027,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,ful heces cafe / 1 lechoso fresco,"BIO2,CP2,BA1-027,22",4,true,false
+98615,BA1-035,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-035,22",4,true,false
+98616,BA1-026,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-026,22",4,true,false
+98617,BA1-038,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-038,22",4,true,false
+98618,BA1-025,PM,2026-08-04,SONICO,1,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe / gris / pepas de balanceado fresco en suelo,"BIO2,CP2,BA1-025,23",4,true,false
+98619,BA1-034,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-034,22",4,true,false
+98620,BA1-033,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,pocas heces cafe,"BIO2,CP2,BA1-033,22",4,true,false
+98621,BA1-032,PM,2026-08-04,SONICO,0,0.00,0.0,2.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-032,21",4,true,false
+98622,BA1-024,PM,2026-08-04,SONICO,1,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe / gris,"BIO2,CP2,BA1-024,23",4,true,false
+98623,BA1-039,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-039,21",4,true,false
+98624,BA1-029,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-029,21",4,true,false
+98625,BA1-037,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,ful heces cafe,"BIO2,CP2,BA1-037,22",4,true,false
+98626,BA1-030,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,presencia de heces cafe,"BIO2,CP2,BA1-030,22",4,true,false
+98627,PL1-105,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,poca actividad,"BIO3,CP2,PL1-105,62",9,false,false
+98650,BCE-016,AM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO2,CP6,BCE-016,03",12,true,false
+98629,BCE-011,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-011,01",12,false,false
+98630,BCE-011,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-011,01",12,false,false
+98631,BCE-010,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+98632,BCE-010,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+98633,BCE-009,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,03",12,false,false
+98634,BCE-009,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-009,03",12,false,false
+98635,BCE-008,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+98636,BCE-008,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+98637,BCE-007,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
+98638,BCE-007,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
+98639,BCE-006,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-006,03",12,false,false
+98640,BCE-006,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-006,03",12,false,false
+98641,BCE-005,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-005,03",12,true,false
+98642,BCE-003,AM,2026-08-04,TIMER,0,0.00,3.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,03",12,false,false
+98643,BCE-003,AM,2026-08-04,TIMER,0,0.00,3.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,03",12,false,false
+98644,BCE-004,AM,2026-08-04,TIMER,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,03",12,false,false
+98645,BCE-004,AM,2026-08-04,TIMER,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,03",12,false,false
+98651,BCE-016,AM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,true,false,"","BIO2,CP6,BCE-016,03",12,true,false
+98628,BCE-002,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-002,02",12,true,false
+98646,BCE-001,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-001,02",12,false,false
+98647,BCE-001,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP6,BCE-001,02",12,false,false
+98648,BCE-017,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,false,false
+98649,BCE-017,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,false,false
+98652,BCE-015,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
+98653,BCE-015,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
+98654,BCE-014,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
+98655,BCE-014,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-014,02",12,false,false
+98656,BCE-012,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,heces cafe,"BIO2,CP6,BCE-012,04",12,true,false
+98657,BCE-012,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,heces cafe,"BIO2,CP6,BCE-012,04",12,true,false
+98659,BCE-017,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-017,02",12,true,false
+98660,BCE-017,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,true,false
+98663,BCE-016,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,heces cafe,"BIO2,CP6,BCE-016,03",12,true,false
+98664,BCE-015,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
+98667,BCE-014,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-014,02",12,true,false
+98668,BCE-013,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-013,02",12,true,false
+98671,BCE-012,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-012,04",12,true,false
+98673,BCE-103,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-103,03",12,false,false
+98674,BCE-011,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,true,false
+98677,BCE-010,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+98678,BCE-009,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-009,03",12,true,false
+98680,BCE-008,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+98681,BCE-007,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
+98684,BCE-006,PM,2026-08-04,TIMER,0,0.00,4.0,0.0,0.0,false,false,false,full balanceadoe en el suelo,"BIO2,CP6,BCE-006,03",12,false,false
+98686,BCE-004,PM,2026-08-04,TIMER,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,03",12,true,false
+98687,BCE-003,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,03",12,false,false
+98658,BCE-017,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-017,02",12,true,false
+98661,BCE-017,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-017,02",12,true,false
+98662,BCE-016,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,heces cafe,"BIO2,CP6,BCE-016,03",12,true,false
+98665,BCE-015,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-015,02",12,false,false
+98666,BCE-014,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-014,02",12,true,false
+98669,BCE-013,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-013,02",12,true,false
+98670,BCE-012,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,heces cafe,"BIO2,CP6,BCE-012,04",12,true,false
+98672,BCE-103,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-103,03",12,false,false
+98675,BCE-011,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-011,01",12,true,false
+98676,BCE-010,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-010,01",12,false,false
+98679,BCE-008,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-008,03",12,false,false
+98682,BCE-007,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-007,03",12,false,false
+98683,BCE-006,PM,2026-08-04,TIMER,0,0.00,4.0,0.0,0.0,false,false,false,full balanceadoe en el suelo,"BIO2,CP6,BCE-006,03",12,false,false
+98685,BCE-004,PM,2026-08-04,TIMER,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-004,03",12,true,false
+98688,BCE-003,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP6,BCE-003,03",12,false,false
+98689,PL2-001,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,true,false,"Se observa actvidad, heces cafes ","BIO3,CP3,PL2-001,22",10,true,false
+98690,PL2-003,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Se observa actividad. heces cafes. ,"BIO3,CP3,PL2-003,22",10,true,false
+98691,PL2-004,PM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,Se observa actividad,"BIO3,CP3,PL2-004,22",10,false,false
+98692,PL2-005,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"Se observa actividad, heces cafes","BIO3,CP3,PL2-005,22",10,true,false
+98693,PL2-010,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Se observa actividad heces cafes.,"BIO3,CP3,PL2-010,22",10,true,false
+98694,PL2-011,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,Se  observa actividad y heces cafes. ,"BIO3,CP3,PL2-011,22",10,false,false
+98695,PL2-013,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,Se observa actividad,"BIO3,CP3,PL2-013,23",10,false,false
+98696,BG1-014,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-014,22",1,false,false
+98697,BG1-015,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-015,23",1,false,false
+98699,BG1-002,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,bastante suelo dañado,"BIO1,CP1,BG1-002,24",1,false,false
+98700,BG1-003,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,bastante suelo dañado,"BIO1,CP1,BG1-003,22",1,false,false
+98701,BG1-005,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,true,false,false,bastante suelo dañado,"BIO1,CP1,BG1-005,23",1,false,false
+98702,BG1-006,PM,2026-08-04,SONICO,0,0.00,2.0,1.0,0.0,false,false,false,"","BIO1,CP1,BG1-006,24",1,false,false
+98703,BG1-007,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-007,23",1,false,false
+98704,BG1-008,PM,2026-08-04,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-008,23",1,false,false
+98705,BG1-009,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-009,24",1,false,false
+98706,BG1-010,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO1,CP1,BG1-010,21",1,false,false
+98707,BG1-011,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-011,22",1,false,false
+98708,BG1-012,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-012,23",1,false,false
+98698,BG1-016,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP1,BG1-016,22",1,false,false
+98709,BG2-038,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-038,23",2,false,false
+98710,BG2-037,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-037,23",2,false,false
+98711,BG2-036,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-036,22",2,false,false
+98712,BG2-024,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-024,21",2,true,false
+98713,BG2-025,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-025,47",2,false,false
+98715,BG2-027,PM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-027,22",2,true,false
+98714,BG2-026,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,1.0,false,false,false,"","BIO1,CP2,BG2-026,22",2,false,false
+98716,BG2-028,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO1,CP2,BG2-028,22",2,false,false
+98717,BG2-032,PM,2026-08-04,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,bastantes heces,"BIO1,CP2,BG2-032,23",2,true,false
+98718,BG2-034,PM,2026-08-04,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-034,24",2,true,false
+98719,BG2-033,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-033,23",2,false,false
+98720,BG2-029,PM,2026-08-04,SONICO,0,0.00,2.0,1.0,0.0,false,false,false,"","BIO1,CP2,BG2-029,22",2,false,false
+98721,BG2-031,PM,2026-08-04,TIMER,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-031,23",2,false,false
+98722,BG2-030,PM,2026-08-04,SONICO,0,0.00,5.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-030,22",2,true,false
+98723,BG2-035,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-035,32",2,false,false
+98724,BG2-041,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-041,22",2,false,false
+98725,BG2-042,PM,2026-08-04,SONICO,0,0.00,1.0,1.0,0.0,false,true,false,"","BIO1,CP2,BG2-042,22",2,true,true
+98726,BG2-043,PM,2026-08-04,SONICO,0,0.00,1.0,1.0,1.0,false,true,false,"","BIO1,CP2,BG2-043,07",2,false,false
+98727,BG2-044,PM,2026-08-04,SONICO,0,0.00,1.0,1.0,0.0,false,true,false,"","BIO1,CP2,BG2-044,07",2,true,false
+98728,BG2-045,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-045,06",2,false,false
+98730,BSP-001,AM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-001,19",7,false,false
+98729,BG2-046,PM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,bastantes heces,"BIO1,CP2,BG2-046,06",2,true,true
+98731,BG2-047,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-047,06",2,false,false
+98732,BG2-048,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-048,06",2,false,false
+98733,BG2-049,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-049,06",2,false,true
+98734,BSP-002,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,heces amarillas y café,"BIO2,CP5,BSP-002,19",7,true,false
+98735,BG2-050,PM,2026-08-04,SONICO,0,0.00,1.0,3.0,0.0,false,false,false,bastantes heces,"BIO1,CP2,BG2-050,06",2,true,true
+98736,BSP-003,AM,2026-08-04,SONICO,0,0.00,2.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-003,18",7,false,false
+98737,BG2-039,AM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,true,false,"","BIO1,CP2,BG2-039,22",2,true,false
+98738,BSP-004,AM,2026-08-04,TIMER,3,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-004,19",7,false,false
+98739,BG2-040,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,true,false,"","BIO1,CP2,BG2-040,23",2,true,true
+98740,BG2-037,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO1,CP2,BG2-037,23",2,true,false
+98741,BSP-005,AM,2026-08-04,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-005,36",7,false,false
+98742,BSP-006,AM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-006,19",7,false,false
+98743,BSP-007,AM,2026-08-04,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-007,18",7,false,false
+98744,BSP-008,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-008,10",7,false,false
+98745,BSP-009,AM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-009,10",7,false,false
+98746,BSP-010,AM,2026-08-04,SONICO,0,0.00,2.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-010,10",7,false,false
+98747,BSP-011,AM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-011,10",7,false,false
+98748,BSP-013,AM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-013,19",7,true,false
+98749,BSP-014,AM,2026-08-04,TIMER,1,0.00,0.0,0.0,0.0,false,true,false,"","BIO2,CP5,BSP-014,18",7,false,false
+98750,BSP-015,AM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-015,18",7,false,false
+98751,BSP-103,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-103,24",7,false,false
+98752,BSP-104,AM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-104,17",7,false,false
+98753,BSP-106,AM,2026-08-04,TIMER,2,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-106,42",7,false,false
+98754,BSP-001,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-001,19",7,false,false
+98755,BSP-002,PM,2026-08-04,SONICO,0,0.00,0.0,1.0,1.0,false,false,false,"","BIO2,CP5,BSP-002,19",7,false,false
+98756,BSP-003,PM,2026-08-04,SONICO,0,0.00,2.0,2.0,0.0,false,false,false,"","BIO2,CP5,BSP-003,18",7,false,false
+98757,BSP-004,PM,2026-08-04,TIMER,1,0.00,0.0,1.0,0.0,false,false,false,poco sobrante de balanceado fresco,"BIO2,CP5,BSP-004,19",7,false,false
+98758,BSP-005,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-005,36",7,false,false
+98759,BSP-006,PM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-006,19",7,false,false
+98760,BSP-007,PM,2026-08-04,TIMER,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-007,18",7,false,false
+98761,BSP-008,PM,2026-08-04,SONICO,0,0.00,1.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-008,10",7,false,false
+98762,BSP-009,PM,2026-08-04,SONICO,0,0.00,1.0,1.0,0.0,false,false,false,"","BIO2,CP5,BSP-009,10",7,false,false
+98763,BSP-010,PM,2026-08-04,SONICO,0,0.00,2.0,3.0,0.0,false,false,false,"","BIO2,CP5,BSP-010,10",7,false,false
+98764,BSP-011,PM,2026-08-04,TIMER,1,0.00,0.0,0.0,0.0,false,false,false,poco sobrante de balanceado en el suelo,"BIO2,CP5,BSP-011,10",7,false,false
+98765,BSP-013,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-013,19",7,false,false
+98766,BSP-014,PM,2026-08-04,TIMER,2,0.00,0.0,0.0,0.0,false,false,false,con sobrante de balanceado en toda la zona de alimentación,"BIO2,CP5,BSP-014,18",7,false,false
+98767,BSP-015,PM,2026-08-04,SONICO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-015,18",7,false,false
+98768,BSP-102,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-102,09",7,false,false
+98769,BSP-103,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-103,24",7,false,false
+98770,BSP-104,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-104,17",7,false,false
+98771,BSP-106,PM,2026-08-04,TIMER,2,0.00,0.0,0.0,0.0,false,false,false,con sobrante de balanceados equipos apagados hasta mañana,"BIO2,CP5,BSP-106,42",7,false,false
+98772,BSP-107,PM,2026-08-04,VOLEO,0,0.00,0.0,0.0,0.0,false,false,false,"","BIO2,CP5,BSP-107,21",7,false,false
